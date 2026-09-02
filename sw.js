@@ -1,4 +1,4 @@
-const CACHE_VERSION = "hermod-pwa-v3";
+const CACHE_VERSION = "hermod-pwa-v4";
 const scopeUrl = new URL("./", self.registration.scope);
 const coreAssets = [
   scopeUrl.href,

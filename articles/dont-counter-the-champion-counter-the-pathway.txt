@@ -1,485 +1,64 @@
-Don’t Counter the Champion. Counter the Pathway.
-When players talk about counters in League of Legends, the conversation usually starts with champions.
-What counters Jinx?
-What beats Rakan?
-What should I pick into Orianna?
-Which support is good against engage?
-Those questions are useful, but they can also be too small.
-A champion is only one piece of the strategy.
-If you want to disrupt a team effectively, the better question is often:
-What is this composition trying to make happen, and where can I break the sequence that gets it there?
-That is the difference between countering a champion and countering a pathway.
-A Champion Is Not the Strategy
-Suppose Blue drafts around Jinx.
-A simple reading might be:
-Jinx is the carry. We need a Jinx counter.
-So Red starts looking for champions that can reach her.
-That can work.
-But imagine Blue's actual strategy is:
-Establish frontline
-→ control enemy access
-→ protect Jinx's position
-→ create a sustained attack window
-→ win the extended fight
-→ convert into an objective
-Jinx is important.
-But she is only one part of that sequence.
-If Red cannot reliably kill Jinx directly, there are several other ways to attack the plan.
-Red might disrupt the frontline.
-Red might prevent Blue from setting up first.
-Red might force Jinx to reposition before she can establish sustained damage.
-Red might deny the objective setup that makes Blue's formation strongest.
-Red might refuse the grouped fight entirely.
-Suddenly:
-“Counter Jinx”
-is only one possible counterplan.
-The larger question is:
-Which part of Blue's pathway is cheapest for us to attack?
-That is a much more strategic way to think.
-Start With the Intended Result
-A counterplan begins by understanding the opponent's desired outcome.
-Suppose Blue wants:
-a stable front-to-back fight around Jinx.
-That objective does not happen automatically because Jinx exists.
-Several conditions need to be created first.
-A simplified pathway might be:
-Arrive first
-→ establish useful formation
-→ absorb or control enemy initiation
-→ keep Jinx accessible to allies but difficult for enemies to reach
-→ maintain sustained damage
-→ win the fight
-→ convert the result
-Now Red has something to attack.
-Instead of asking:
-Which champion beats Jinx?
-Red can ask:
-Can we make Blue arrive late?
-Can we make the formation unstable?
-Can we force protection cooldowns before the real fight?
-Can we split Blue's frontline from its damage?
-Can we threaten multiple directions?
-Can we deny the conversion after the fight?
-Can we make Blue choose between protecting Jinx and answering another threat?
-Those are pathway-level counterplans.
-The Cheapest Counter Is Often Not the Most Direct One
-Direct counters are attractive because they are easy to see.
-If the enemy carry is dangerous, dive the carry.
-If the enemy has engage, pick disengage.
-If the enemy has poke, pick sustain.
-But direct opposition is not always the cheapest strategic solution.
-Suppose Blue's composition needs to establish river control before Dragon.
-Once Blue controls the entrance and gets Jinx into position, the fight becomes extremely difficult for Red.
-One response is:
-Draft something that can dive Jinx through her protection.
-That may require a lot.
-You need:
-enough access;
-enough durability;
-enough follow-through;
-enough damage;
-enough coordination.
-But perhaps Blue has another dependency:
-They need Mid priority to enter river first.
-Then Red may not need to solve the entire Jinx problem.
-Red only needs to make Blue's preferred setup unavailable.
-The counterplan becomes:
-contest Mid priority
-→ delay Blue's river entry
-→ force Blue through narrower access
-→ deny stable formation
-→ make Jinx fight while repositioning
-Jinx's champion strength has not changed.
-Her realizability has.
-That can be much cheaper than trying to kill her through the front door.
-Think in Transitions
-This is one of the most useful ways to analyze strategy.
-Don't only look at the nodes:
-engage;
-peel;
-damage;
-objective control.
-Look at the transitions between them.
-For example:
-Initiation
-→ follow-through
-A team may be excellent at starting fights but poor at continuing them.
-That transition is vulnerable.
-Or:
-Peel
-→ protected repositioning
-A team may successfully save its carry from the first threat but fail to restore a useful damage position afterward.
-Or:
-Kill
-→ objective conversion
-A team may consistently win skirmishes but fail to turn them into Baron, Dragon, towers, vision, or map control.
-Those are counterplan opportunities.
-The opponent does not always need to prevent the first step.
-Sometimes the best response is to allow the first step and attack what must happen next.
-Example: Let Them Engage
-Suppose Blue has:
-strong initiation;
-moderate follow-through;
-limited sustained damage if the fight spreads out.
-Red could try to stop the engage.
-But maybe that is difficult.
-Instead, Red deliberately constructs:
-survive initiation
-→ disengage first follow-up
-→ stretch formation
-→ re-enter after Blue's major cooldowns
-Now Blue's strength becomes part of the trap.
-Red is not saying:
-We prevent Blue from starting the fight.
-Red is saying:
-We allow Blue to start the fight under conditions where starting it does not produce the next step they need.
-That's a much more interesting counterplan.
-The important object was never:
-engage.
-It was:
-engage that successfully transitions into follow-through.
-Break the transition and the pathway fails.
-Countering a Pathway Can Be More Robust Than Countering a Champion
-Champion counters can be fragile.
-Suppose Red drafts a specific Jinx counter.
-Then Blue pivots:
-Jinx plays more conservatively;
-support changes;
-frontline becomes stronger;
-draft adds disengagement;
-the intended strategy shifts.
-The direct counter may lose value.
-Pathway counters can sometimes be more robust because they attack a structural dependency.
-Imagine Blue needs:
-protected attack windows.
-Red may have several ways to deny those:
-flank pressure;
-range;
-displacement;
-split formation;
-repeated threat;
-zone control;
-tempo denial.
-Those are different mechanisms serving the same strategic counter-function.
-This gives Red flexibility.
-The goal is not necessarily:
-Pick Champion X.
-The goal is:
-Deny Blue a stable attack window.
-Champion X may be one realization.
-Champion Y may be another.
-The plan survives substitutions better because it exists above the champion layer.
-This Changes How You Think About Counterpicks
-A normal counterpick question is:
-What champion has a favorable matchup into theirs?
-A pathway-aware question is:
-Which of our available champions most effectively attacks something their strategy depends on?
-Those are not always the same champion.
-Suppose the enemy has a scaling ADC.
-One candidate wins lane into the ADC.
-Another candidate is only neutral in lane but provides exceptional disengagement against the enemy's entire engage structure.
-Which is the better counterpick?
-That depends on what you are trying to counter.
-If the team's strategic dependency is:
-Engage
-→ lock target
-→ collapse
-→ remove carry
-then the second champion may be far more valuable even without a strong lane matchup.
-The unit of comparison has changed from:
-champion versus champion
-to:
-capability against pathway dependency.
-Bans Work the Same Way
-This is also why the most strategically valuable ban is not always the opponent's strongest champion.
-Suppose Red's plan depends on:
-Frontline
-→ reliable initiation
-→ backline follow-through
-And only three realistic champions in Red's player pools can provide the first two functions in a single slot.
-Blue could ban the most statistically powerful champion.
-Or Blue could remove one of those three structural solutions.
-If Blue removes enough of them, Red may be forced to solve:
-frontline;
-initiation;
-with separate picks.
-That consumes more draft capital.
-It may expose roles.
-It may destroy flexibility.
-It may prevent Red from filling another requirement later.
-The ban has attacked the pathway rather than the champion.
-This is a useful way to distinguish:
-Direct denial
-from:
-Structural denial
-Direct denial says:
-They can't have Maokai.
-Structural denial says:
-Their cheap route to frontline + initiation is disappearing.
-The second explanation is usually much more valuable.
-Counterplans Should Create Problems, Not Just Answers
-A good counterplan does more than reduce the strength of an enemy champion.
-It should ideally create a new problem the opponent must solve.
-Suppose Blue's composition wants:
-Front-to-back teamfight
-Red chooses:
-Split pressure
-Now Blue faces a new obligation:
-How do we force the grouped fight while answering the sidelane?
-If Blue sends someone away, the five-player structure weakens.
-If Blue ignores the sidelane, structures fall.
-If Blue forces Baron, Red may trade.
-The counterplan has changed Blue's decision environment.
-That is more powerful than:
-We picked a champion with a good matchup.
-A strong counterplan creates a dilemma.
-Strategic Dilemmas Are Expensive
-The best counterplans often force the opponent to satisfy two responsibilities that compete with each other.
-For example:
-Protect Jinx
-and:
-Answer sidelane pressure
-or:
-Maintain objective formation
-and:
-Respond to poke from multiple angles
-or:
-Hold disengage cooldowns
-and:
-Use those cooldowns to contest space
-If the opponent can do both cheaply, the counterplan is weak.
-If doing one makes the other harder, the counterplan is strong.
-This suggests a useful principle:
-The strongest counterplans attack shared resources or create incompatible obligations.
-The opponent has limited:
-players;
-cooldowns;
-positioning;
-vision;
-attention;
-map presence;
-draft slots.
-If your response forces the opponent to spend the same resource twice, you may have found a real structural weakness.
-Example: Protect Jinx Versus Multiple Access Angles
-Suppose Blue has constructed a strong protection shell around Jinx.
-If Red approaches from one direction, Blue is comfortable.
-The frontline absorbs pressure.
-Support peels.
-Jinx attacks.
-So Red does not simply ask:
-Who can dive Jinx?
-Instead Red asks:
-How many directions can Blue's protection structure cover simultaneously?
-Now the pathway becomes:
-Create side angle
-→ force peel attention
-→ create second access threat
-→ split protection resources
-→ collapse on whichever side becomes exposed
-The counterplan is not:
-Kill Jinx.
-It is:
-Overload the protection architecture.
-That is a structural attack.
-Several completely different champion combinations might realize it.
-Sometimes the Correct Counterplan Is Refusal
-There is another category of response that is often underrated:
-Don't participate in the opponent's preferred game.
-Suppose Blue's composition is exceptional in grouped objective fights.
-Maybe the worst response is to contest every Dragon exactly as Blue wants.
-Red might instead:
-trade opposite side;
-accelerate sidelanes;
-threaten Baron while Blue shows elsewhere;
-invade when Blue's formation is split;
-force repeated transitions instead of stable setups.
-This is strategic denial through refusal.
-Blue built a composition designed to answer:
-Who wins the organized 5v5?
-Red responds:
-We're not giving you an organized 5v5.
-Now Blue's composition may still be powerful.
-But Red has changed the question.
-That is one of the most important ideas in counterplanning:
-You do not always need a better answer. Sometimes you need to prevent the opponent from asking their preferred question.
-Counterplans Can Target Conditions Instead of Capabilities
-Suppose a champion supplies strong initiation.
-Trying to remove the initiation capability directly may be difficult.
-But perhaps that initiation only works reliably when:
-allies can follow;
-the target is visible;
-the team has enough space;
-key enemy disengage is unavailable.
-Instead of attacking the capability:
-Initiation
-you can attack its conditions.
-For example:
-deny vision
-→ threaten multiple paths
-→ keep disengage available
-→ reduce follow-up confidence
-Now the champion still has initiation.
-But the composition has fewer situations where the initiation is strategically realizable.
-This distinction matters enormously.
-A capability can exist without being usable.
-So a counterplan should ask:
-What conditions make their strongest capability matter?
-Then:
-Which of those conditions can we make unreliable?
-The Best Counterplan May Change During the Draft
-Counterplanning is also sequential.
-Suppose Blue first-picks Jinx.
-Red initially considers:
-backline access.
-Blue then drafts Poppy.
-Suddenly direct access becomes more expensive.
-Red should not stubbornly continue building the original anti-Jinx plan.
-Maybe now the better attack is:
-range.
-Blue answers range with stronger engage.
-Now perhaps:
-map division
-becomes cheaper.
-This produces a response tree:
-Blue anchor
-→ Red counterplan
-→ Blue protection
-→ Red adaptation
-This is why draft strategy is not simply:
-choose five champions.
-It is an adversarial process of changing what is cheap and expensive for the other side.
-The best counterplan is often the one that preserves multiple future responses.
-A Counterplan Also Has a Cost
-This is where counterplanning can go wrong.
-You can become so focused on stopping the opponent that you destroy your own composition.
-Suppose Blue drafts Jinx.
-Red says:
-We need three champions that can reach Jinx.
-So Red drafts enormous backline access.
-But now Red has:
-weak wave control;
-poor objective setup;
-no stable damage if the dive fails;
-little disengagement;
-high execution burden.
-Red has technically countered Jinx.
-But perhaps Red has created a worse team.
-That is not successful counterplanning.
-A useful counterplan should satisfy two conditions:
-It meaningfully attacks the opponent's pathway.
-It still produces a coherent pathway for your own team.
-In other words:
-Countering them is not your win condition.
-You still need your own way to win.
-Counterplan Value Is Relative
-This means a response should not be judged only by:
-How badly does this hurt them?
-It should be judged by something closer to:
-**Counterplan Value
-= Opponent pathway disruption
-Our strategic gain
-− Our commitment cost
-− Our new exposures**
-Suppose one response severely disrupts Blue but forces Red into a composition Red cannot execute.
-Another response only moderately disrupts Blue but fits Red's champion pools and preserves several future options.
-The second response may be better.
-This is especially important outside professional play.
-A theoretical counter that your team cannot realize is not a useful counter.
-Actor Realizability Matters
-Imagine your team theoretically has two ways to attack the opponent's pathway.
-Counterplan A
-Requires:
-precise flank timing;
-coordinated dive;
-multiple synchronized cooldowns.
-Counterplan B
-Requires:
-wave pressure;
-objective patience;
-reliable disengagement.
-For one roster, A may be natural.
-For another, B may be much more realistic.
-The strategy therefore cannot be separated from the actors expected to execute it.
-This gives us another useful distinction:
-Structural counter
-Would this plan attack the opponent if executed?
-Realizable counter
-Can this roster actually execute it consistently?
-A counterplan needs both.
-Good Counterplanning Starts With “Why Does Their Plan Work?”
-Before looking for answers, explain the opponent's strategy generously.
-Suppose they want to play Protect-the-Carry.
-Don't begin with:
-Protect-the-Carry is vulnerable to dive.
-Begin with:
-Why is their Protect-the-Carry plan strong?
-Maybe because:
-their carry provides exceptional sustained damage;
-frontline can buy time;
-peel can disrupt first access;
-terrain favors their control;
-they scale comfortably;
-objective fights force opponents toward them.
-Only then ask:
-What part of that structure can we realistically attack?
-This avoids fake counteranalysis where the analyst invents a weakness simply because they are supposed to find one.
-Sometimes the answer may be:
-Their current pathway is actually difficult for us to attack directly.
-That is valuable information too.
-Then you may need to shift toward:
-trade objectives;
-create map pressure;
-change the timing;
-avoid the fight.
-A Better Counterplan Checklist
-When examining an enemy composition, ask:
-1. What result are they trying to create?
-What does success look like for them?
-2. What sequence gets them there?
-Write the pathway.
-3. What transitions are fragile?
-Where does one required state have to become another?
-4. Which capabilities are carrying the pathway?
-Which functions have few substitutes?
-5. What conditions make those capabilities usable?
-Access? Vision? Formation? Timing? Follow-up?
-6. Which dependency is cheapest for us to attack?
-Do not automatically attack the most visible champion.
-7. Can we create competing obligations?
-Can we force them to solve two problems with the same resources?
-8. What happens after they respond?
-A counterplan that disappears after one adaptation is weak.
-9. Does our response still form a coherent strategy?
-Don't destroy your own pathway while attacking theirs.
-10. What would make us abandon this counterplan?
-Good strategy should have a revision condition.
-From Counterpick to Counterplan
-Counterpicks still matter.
-Champion interactions still matter.
-Lane matchups still matter.
-But they are components of a larger reasoning problem.
-Instead of:
-What counters Jinx?
-ask:
-What makes this Jinx composition work?
-Then:
-Which part of that structure can we attack most efficiently?
-Instead of:
-What beats engage?
-ask:
-What transition does their engage need to create next?
-Instead of:
-What should we ban?
-ask:
-Which ban makes their remaining pathway more expensive to complete?
-And instead of:
-How do we stop their strategy?
-ask:
-What response forces them into a game they did not build their composition to play?
-That is the shift.
-A champion is visible.
-A pathway is structural.
-If you only counter the champion, the opponent may adapt around it.
-If you counter the pathway, you are attacking the reason the champion mattered in the first place.
-Don't counter the piece. Counter the system that makes the piece valuable.
+# Counter the Pathway That Makes Their Draft Work
 
+The opponent is building around Jinx, and your team is considering a dive answer. Before spending the remaining picks, ask: **which part of their plan can we disrupt affordably, and what advantage can we take afterward?**
+
+This article shows how to compare two attacks on the same opponent, prepare for a response, and retain a way for your own team to progress. The examples use preparation assumptions about the rosters and game state.
+
+## Map the Opponent's Intended Fight
+
+Suppose Blue wants a front-to-back fight at Dragon. It plans to push mid, enter river first, establish protection around Jinx, and make Red approach. Jinx then gets an attack window, and Blue converts a favorable fight into Dragon.
+
+Begin with a fair account of the plan's strength. Assume Blue's players can hold their formation and protect Jinx against a single frontal attacker. A direct dive into that setup will require coordinated access, enough damage, and a way to survive the response.
+
+Red has another possible target: Blue needs time and lane movement to establish that formation. If Red can contest mid and enter river first, Blue must approach through space that Red controls.
+
+The pathway makes both candidates visible. One attacks the protected carry; the other attacks the setup that creates her useful attack time.
+
+## Compare the Cost of Each Attack
+
+Assume Red has already selected a mid laner that can contest the wave and a jungler that can help secure the river approach. Its players are comfortable coordinating that movement. A reliable dive would require both remaining picks to provide access and follow-up, leaving little room to repair other needs.
+
+Under those conditions, contesting setup is the cheaper starting plan. Red already owns much of the required structure and can use a remaining pick to improve its entrance control or follow-up.
+
+That decision still needs an executable sequence. Red prepares the mid wave, moves its nearby players together, and controls an entrance before Blue arrives. If Blue enters in a broken formation, Red looks for a short attack on the exposed entrant, forcing health or cooldowns before Jinx can establish a comfortable damage position.
+
+The expected gain is a retreat that gives Red time to take Dragon. Red should start it only while its health, wave state, and control of the remaining approaches support that conversion.
+
+This completes the comparison: the setup attack costs fewer new draft resources, uses practiced coordination, and leads to an objective through a named sequence.
+
+## Check Blue's Response
+
+Blue can change the conditions. It might reinforce mid, use a different entrance, arrive earlier at a cost elsewhere, or decline the contest.
+
+Red therefore needs evidence at each transition. Can the mid wave still be contested? Can teammates move together? Does the controlled entrance matter, or can Blue approach safely from another side? An opponent who refuses a bad entry has not handed Red a kill.
+
+If Blue gives up the contest, Red can take Dragon when its control makes that safe. If Blue changes entrances, Red must preserve a formation that covers the actual approach. Chasing the original trap after Blue bypasses it would abandon the reason the plan worked.
+
+The same checks apply to a dive alternative. If Blue uses protection to stop the first attacker, Red needs a credible second action and enough resources left to complete it. A neutral lane matchup can be acceptable when the pick reliably performs that team job.
+
+## Use Bans to Shape the Response
+
+Evaluate bans against the counterplan's purpose. Which available champions help Blue recover the setup or create a safe entry that Red is trying to deny?
+
+Suppose Blue has three realistic providers for a needed opening in its remaining roles. Removing one leaves two. Red should inspect the lineups those two can still complete before spending another ban on the same job.
+
+A useful ban may remove an efficient one-slot solution and force Blue to spend two picks restoring its structure. That benefit disappears if Blue has already secured another provider or can switch to an equally usable route.
+
+During preparation, rehearse the ban in its actual decision window and let Blue respond with a pick or substitute. Prefer the ban that weakens the response Red most needs to control at an acceptable opportunity cost. Describe a route as closed only when no viable completion remains under the stated pool and availability assumptions.
+
+## Change the Mid-Lane Assumption
+
+Now suppose Blue's next pick gives it a mid-lane setup that Red cannot reliably contest. Red's preferred route loses its first step. Adding more entrance control would do little if Red cannot arrive in position to use it.
+
+Assume this is an early Dragon Red can afford to concede, and its Top pick already provides credible pressure on the opposite side. Red can revise the plan: avoid an expensive late river entry, use the movement elsewhere to take an available structure, and reset before Blue's next rotation.
+
+That trade needs a worthwhile return within the available time. If Red cannot obtain one, calling it side pressure does not make the concession profitable. Red may need to accept a smaller loss and use a remaining pick to improve the next contest.
+
+The choice changed because Blue removed the affordable setup attack. Red now judges a map trade by its own conversion and timing. A dive becomes attractive only if the completed roster can fund it more reliably than these alternatives.
+
+## Choose an Attack and Its Next Branch
+
+1. Which step in their route can we interrupt with the tools we can afford?
+2. What sequence turns that interruption into our own objective or map advantage?
+3. How can they respond, and which part of our sequence would that change?
+4. What evidence would make us choose a different attack or accept a trade?

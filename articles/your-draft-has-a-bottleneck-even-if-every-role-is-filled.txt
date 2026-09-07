@@ -1,317 +1,43 @@
-# Your Draft Has a Bottleneck Even If Every Role Is Filled
+# Find the Bottleneck in Your Draft
 
-A finished League of Legends draft can look complete.
+Blue reaches Dragon first and lands its initiation, yet Jinx spends most of the fight retreating. Should the team add damage, change its formation, or improve the setup? This article shows how to locate the step limiting a plan and choose an improvement that addresses its cause.
 
-You have a Top, Jungler, Mid, ADC, and Support. You have physical damage, magic damage, crowd control, frontline, and scaling. Nobody is obviously missing.
+That limiting step is a **strategic bottleneck**. The diagnosis needs evidence from the intended game state: a lineup's list of strengths gives little indication of where its execution will stall.
 
-And yet the composition can still have a hole running straight through the middle of it.
+## Trace the Outcome Back Through the Fight
 
-Filling five roles is not the same thing as completing a strategy. A draft can satisfy every positional requirement while leaving one strategic function overloaded, conditional, or completely dependent on a single champion.
+Consider Ornn, Sejuani, Orianna, Jinx, and Lulu. Blue wants to win a structured fight and take Dragon. To do that, it needs early movement, useful objective position, control of enemy access, a safe attack window, damage, and enough resources to finish the objective.
 
-That creates a **strategic bottleneck**.
+Assume a review of this scenario shows Blue arriving first with healthy champions and usable cooldowns. Ornn and Sejuani reach their targets. Jinx can initially reach the fight, but an enemy access threat then forces her backward. Dragon remains available if Blue wins.
 
-> **A composition can have plenty of capabilities and still have only one narrow route through which those capabilities become useful.**
+This evidence narrows the investigation. Initial access is working, and conversion is still possible. Progress repeatedly stops when Jinx loses her attack window.
 
-That narrow route is where the draft can break.
+## Find the Stage That Limits Progress
 
-## Roles Tell You Who Is Playing. They Do Not Tell You How the Team Works.
+Several strengths depend on that window. The frontline buys time, initiation exposes targets, Orianna controls space, and Lulu protects Jinx. Their value falls when Jinx cannot use the time to attack.
 
-Position labels answer an organizational question:
+The dependency diagram shows why a team can appear well supplied while producing little damage. The shared condition needs attention even when every role is filled.
 
-> Who occupies each position?
+The cause still matters. In this example, assume the review shows an enemy approach left uncontrolled. Jinx retreats from that threat despite having targets in range. That supports a formation or defensive-control adjustment. A range problem would require a different response.
 
-They do not answer the strategic question:
+## Compare Improvements at the Limiting Stage
 
-> **How do these five players combine their capabilities to produce a winning game state?**
+The flow diagram assigns hypothetical capacities to the fight's stages. The attack window has the smallest capacity, so adding damage potential elsewhere produces limited benefit while that restriction remains.
 
-That requires a pathway, such as:
+For illustration, suppose Blue currently gives Jinx two seconds of useful attack time. Compare changing a slot to add damage with rehearsing a formation that controls the approach and gives her six seconds. These times are hypothetical teaching values.
 
-**Create lane priority
-→ establish objective position
-→ initiate on favorable terms
-→ control enemy access
-→ create a safe damage window
-→ win the fight
-→ convert into Baron**
+With the stated cause, prioritize the formation adjustment. It uses the existing lineup to make more of Jinx's damage available. Test it against the same enemy approach and watch whether the extra attack time produces a won fight and Dragon. A longer window alone is insufficient evidence that the full plan now works.
 
-Now we can ask whether the composition supports each transition. That is where bottlenecks become visible.
+## Change the Diagnosis When the Evidence Changes
 
-## Imagine a Composition That Looks Fine
+Now suppose Blue already creates a long attack window and wins the fight, but neglected waves force it to recall before taking Dragon. More protection offers little help at the stage where this version stalls.
 
-Suppose Blue drafts:
+Move the preparation priority to wave timing and the resources needed for conversion. The champions can stay the same while the limiting stage changes.
 
-**Top:** Gnar  
-**Jungle:** Graves  
-**Mid:** Viktor  
-**ADC:** Jinx  
-**Support:** Lulu
+Use repeated examples from a comparable setup before making a broad draft change. First access, late arrival, different terrain, and the roster's practiced champion pool can each change which improvement is feasible. After any adjustment, trace the whole sequence again to see where progress stops next.
 
-The roster contains many desirable things: frontline, disruption, physical and magic damage, scaling, zone control, peel, and protection.
+## Choose the Next Improvement
 
-Nothing is obviously absent. But ask:
-
-> **How does this team reliably create the fight it wants?**
-
-Much of the answer may be:
-
-> Gnar.
-
-That is a bottleneck.
-
-## A Bottleneck Is Not Necessarily a Missing Capability
-
-The composition technically has initiation. Gnar can initiate. A simple checklist therefore says:
-
-> Initiation: covered.
-
-But Gnar's strongest initiation may depend on Mega Gnar being available, useful terrain, sufficient range, enemy positioning, allied follow-up, and entering without being controlled first.
-
-The structure may actually look like:
-
-**Gnar reaches usable Mega state
-→ Gnar obtains access
-→ Gnar creates initiation
-→ Viktor controls follow-up space
-→ Lulu protects Jinx
-→ Jinx establishes sustained damage**
-
-Most of the composition's strongest assets sit downstream of one conditional event. The question is not whether Blue has initiation. It is:
-
-> **How much of Blue's strategy depends on one particular realization of initiation?**
-
-## Coverage Can Hide Concentration
-
-A capability checklist may show initiation, peel, damage, frontline, and zone control all covered. That looks reassuring.
-
-But imagine those capabilities depend heavily on one champion being positioned correctly. The composition has excellent **coverage** but poor **structural independence**.
-
-This is similar to a network: five systems can appear operational while sharing one connection that can disable all of them. A draft may contain several damage sources, multiple forms of crowd control, protection, and scaling while all those assets depend on one scarce condition:
-
-> **The fight must begin in one particular way.**
-
-Coverage counts what exists. Dependency analysis asks whether those things fail together.
-
-## One Champion Can Be Doing Too Many Jobs
-
-Suppose your Jungler is Maokai. The draft expects Maokai to provide frontline, initiation, vision checking, objective setup, pick threat, and peel.
-
-Every expectation is plausible. But he cannot perform all of them simultaneously.
-
-If Maokai uses his ultimate to initiate, it is unavailable for disengagement. If he enters fog to establish vision, he may not be positioned to protect the carry. If he absorbs damage early, the frontline needed later is already depleted.
-
-The team concludes:
-
-> Maokai covers everything.
-
-But strategically:
-
-> **Maokai may be the shared resource that several parts of the plan are competing to use.**
-
-That is not redundancy. It is contention.
-
-## Capability Count Is Not Capacity
-
-One champion who provides engage, peel, and zone control does not necessarily supply three independently available resources.
-
-A cooldown used for engage cannot simultaneously be preserved for peel. A champion positioned on a flank cannot occupy the space needed to protect the backline. A player covering sidelane pressure cannot establish vision around Baron at the same moment.
-
-> **A champion can possess multiple capabilities without being able to realize all of them at the same time.**
-
-Composition analysis must ask which capabilities compete for the same provider, position, cooldown, or timing window.
-
-## Consider a Protect-the-Carry Composition
-
-Suppose Blue drafts:
-
-**Ornn
-Sejuani
-Orianna
-Jinx
-Lulu**
-
-The team has frontline, initiation, protection, control, scaling, and sustained damage. Its pathway is clear:
-
-**Ornn and Sejuani establish front
-→ enemy access is controlled
-→ Orianna stabilizes fight space
-→ Lulu protects Jinx
-→ Jinx attacks safely
-→ Blue wins the extended fight**
-
-But what happens if Jinx cannot establish the attack window?
-
-Ornn's durability may not convert into damage. Sejuani's initiation may not convert into kills. Orianna's control may only delay. Lulu may preserve a carry who still cannot attack.
-
-The entire composition feeds one conversion mechanism: **Jinx sustained damage**. That does not make the composition bad, but it identifies the likely bottleneck.
-
-## Bottlenecks Can Exist at Different Stages
-
-Consider a general pathway:
-
-**Access
-→ Control
-→ Damage
-→ Survival
-→ Conversion**
-
-The team may have damage but only one credible way to reach a fight: an **access bottleneck**. It may reach opponents but fail to hold favorable space: a **control bottleneck**. It may create setups that depend on one damage source, or damage that depends on one protection tool. It may win fights without the wave state, objective damage, or position needed to convert them.
-
-“The composition is balanced” tells us little. The important question is:
-
-> **Where is throughput constrained?**
-
-## Think of Strategy as Flow
-
-Imagine strategic value flowing through a pathway with hypothetical capacities:
-
-```text
-Fight Access          8
-Enemy Constraint      8
-Damage Window         3
-Sustained Damage      9
-Objective Conversion  9
-```
-
-The team does not effectively have 37 units of strategy. The pathway is constrained by its narrow stage.
-
-If only three units can move through the damage-window stage, everything downstream waits on that constraint. Adding more sustained damage may accomplish almost nothing. You already have more damage than the pathway can enable.
-
-What you need is to widen the bottleneck.
-
-## More Damage Can Be the Wrong Fix
-
-A team struggles to finish fights and concludes:
-
-> We need more damage.
-
-Maybe. But suppose the ADC gets only two seconds of useful attack time. Another damage-oriented champion increases theoretical output without increasing what can be realized.
-
-Peel, disengagement, zone control, frontline, or repositioning may appear less offensive. But if one of them increases the usable damage window from two seconds to six, it creates more actual damage than another carry.
-
-> **The most valuable addition is often not the strongest capability. It is the capability that releases the constraint on everything else.**
-
-This changes the next-pick question from “Which champion is strongest?” to “Which champion produces the largest strategic delta?”
-
-## Redundancy Can Release a Bottleneck
-
-Suppose Gnar is your only initiation source. Adding another initiation champion may look redundant because the draft already has engage.
-
-But if the second champion creates an **independent route**, the opponent can no longer shut down fight access by denying one provider. The team did not merely add more initiation. It removed a single point of failure.
-
-## But Redundancy Can Be Fake
-
-Now suppose both engage champions depend on the same narrow terrain, flank access, allied follow-up, and enemy positioning mistake.
-
-The composition has two engage buttons, but both routes fail under the same condition. That is **correlated redundancy**.
-
-True redundancy means:
-
-> **The backup route remains available when the primary route fails.**
-
-If both routes fail together, the composition has not diversified its risk.
-
-## Bottlenecks Can Be Conditional
-
-Not every bottleneck exists in every game state.
-
-Gnar initiation may be reliable around Dragon, where terrain is favorable, Mega timing is manageable, and opponents must approach. It becomes harder while chasing a split-pusher through open terrain.
-
-Bottlenecks can depend on terrain, objective state, waves, vision, timing, items, opponent formation, and player positioning.
-
-The better question is:
-
-> **Under which game states does this dependency become constraining?**
-
-## The Opponent Will Look for the Bottleneck
-
-If Blue's teamfight depends on Gnar entering effectively, Red does not need to beat every Blue champion independently. Red can control flank routes, track Mega timing, avoid favorable terrain, force action while Gnar is Mini, or zone him before the fight.
-
-That intervention devalues Viktor's follow-up, Lulu's protection, and Jinx's sustained damage because those capabilities were waiting downstream.
-
-> **Attacking one narrow dependency can reduce the value of several otherwise healthy parts of the composition at once.**
-
-That is why the strongest champion is not always the most important counterplan target. Bottlenecks create leverage.
-
-## Your Best Player Can Become a Bottleneck Too
-
-Bottlenecks are not limited to mechanics.
-
-If the team's strongest Mid laner is responsible for lane priority, first movement, shotcalling, setup, and late-game damage, a bad matchup or comfort ban can degrade the entire strategy. Too many responsibilities were concentrated in one actor.
-
-Champion pools create the same problem before the game. League may theoretically offer dozens of frontline or disengage providers, while the roster has one practiced solution. The theoretical strategy space is large; the team's real space is narrow.
-
-A single ban can then turn a healthy requirement into a bottleneck. A capability moves from abundant, to constrained, to critical as the decision space shrinks.
-
-## Resource Competition Can Create Bottlenecks Even When Capabilities Are Distributed
-
-Several champions may be capable of carrying while all of them require gold, safe waves, jungle attention, and favorable lane state.
-
-The team distributed damage capability but concentrated **resource demand**. Its economy cannot fund all the plans the draft appears to support.
-
-The scarce resource may be gold, map priority, vision, tempo, positioning, or attention. A composition of individually functional champions can still have impossible resource topology.
-
-The same applies to cooldowns. If one defensive ability must save the ADC, interrupt initiation, and create repositioning space, the opponent can threaten once, force the cooldown, disengage, and re-enter while protection is unavailable.
-
-## Good Counterplans Often Overload Bottlenecks
-
-Suppose Blue's Support is responsible for protecting Jinx. One dive threat is manageable. Two simultaneous threats from different angles may exceed the same protection resource.
-
-This is not merely more damage. It is **demand greater than defensive capacity**.
-
-Once you identify the scarce resource, ask:
-
-> **What responsibility can we force them to perform twice?**
-
-If the same champion, cooldown, player, or position is needed for both, competing obligations can break the structure.
-
-## How to Find a Bottleneck
-
-Do not begin with champion names. Write the intended outcome:
-
-> Win structured objective fights around Jinx.
-
-Then write the pathway:
-
-**Establish position
-→ control enemy entry
-→ initiate or absorb initiation
-→ create protected attack window
-→ sustain damage
-→ convert**
-
-For every stage, ask who provides it and how many independent providers exist. Name the conditions each provider requires. Look for several stages relying on the same champion, cooldown, player, or position. Then ask what stops working if that resource disappears and whether the opponent can deliberately make it unavailable.
-
-Three tests make the dependency concrete:
-
-1. **Remove one thing.** Which removal causes the largest structural collapse?
-2. **Use it once.** If this capability serves one responsibility, which other responsibility becomes unavailable?
-3. **The opponent knows.** If the opponent understood the dependency, what would they attack first?
-
-The stage that limits everything downstream is the likely bottleneck.
-
-## A Better Draft Checklist
-
-1. What is our primary pathway?
-2. Where is its narrowest stage?
-3. Who owns that responsibility?
-4. Would the backup survive the same failure condition?
-5. Are several jobs competing for one champion, cooldown, player, position, or resource?
-6. What conditions make the bottleneck usable?
-7. Can the opponent attack those conditions cheaply?
-8. Which pick would release the constraint rather than merely add strength?
-9. How many substitutes remain if that solution is banned?
-10. What backup pathway can still create value?
-
-## Filling Every Role Is Only the Beginning
-
-Five portraits and five positions make champion select look complete. Strategy still has to transform champion abilities into useful capabilities, those capabilities into coordinated actions, and those actions into a pathway toward an objective.
-
-Somewhere in that chain there is usually a narrow point. It may be a champion, player, cooldown, access condition, priority state, or the one protected attack window everything else was built to create.
-
-> **Strategic completeness is not the same thing as positional completeness.**
-
-Once the narrow point becomes visible, ask how much of the plan depends on it, what happens if the opponent attacks it, and what can change so the strategy no longer passes through the same connection.
-
-The most dangerous weakness in your draft is often not the thing you forgot to include.
-
-It is the thing you included—but made responsible for too much.
+1. What outcome are we trying to produce, and where does the sequence repeatedly stall?
+2. What evidence explains that failure, and which feasible change addresses its cause?
+3. After that change, can the remaining stages turn the improvement into the intended outcome?

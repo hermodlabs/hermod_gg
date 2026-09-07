@@ -1,0 +1,307 @@
+Five Good Champions Can Still Make a Bad Team
+One of the easiest mistakes to make in League of Legends is assuming that a composition is good because every champion in it is good.
+Imagine a team drafts five champions that are individually strong, comfortable for their players, and perfectly reasonable in isolation.
+There may be no obvious troll pick. No losing lane was deliberately drafted. Every player can explain why their champion is useful.
+And yet when the game reaches an important objective fight, something feels wrong.
+The team cannot start the fight it wants.
+The carry cannot safely deal damage.
+Two champions want to play forward while the others want to play backward.
+The jungler needs lane priority that the composition cannot consistently create.
+Someone engages, but nobody can follow.
+The team technically has everything a conventional checklist might ask for—damage, crowd control, frontline, mobility—but those pieces do not form a coherent way of winning.
+The problem is simple:
+A collection of good champions is not necessarily a good system.
+That distinction is at the center of composition strategy.
+Champions Have Capabilities. Teams Need Pathways.
+A champion can provide useful things.
+For example:
+initiation,
+sustained damage,
+burst damage,
+peel,
+disengagement,
+target access,
+zone control,
+wave control,
+frontline durability.
+But possessing capabilities is not enough.
+Those capabilities have to combine into a sequence that actually produces something the team cares about.
+Suppose a composition wants to win through a traditional front-to-back teamfight around a scaling ADC.
+A simplified pathway might look like:
+Establish a stable frontline
+→ prevent enemy access
+→ create a safe attack window
+→ maintain sustained damage
+→ convert the fight into an objective
+Each step depends on something else being true.
+The ADC's damage may be excellent, but that damage only matters if the ADC is allowed to attack.
+The support may have exceptional peel, but the peel only matters if the team can remain organized enough to use it.
+The frontline may absorb damage, but that is only strategically useful if the rest of the team can exploit the time it creates.
+This is why composition analysis should not stop at:
+What can these champions do?
+The stronger question is:
+Can what these champions do be assembled into a reliable pathway toward the team's objective?
+The Missing-Link Problem
+Consider a hypothetical composition:
+Top: Gnar
+Jungle: Graves
+Mid: Viktor
+ADC: Jinx
+Support: Lulu
+Every champion is individually defensible.
+Gnar gives durability, disruption, and teamfight presence.
+Graves gives damage, farming strength, and skirmishing power.
+Viktor gives control and sustained damage.
+Jinx gives enormous late-game damage and conversion.
+Lulu gives protection and peel.
+At first glance, the composition seems loaded.
+It has scaling.
+It has damage.
+It has protection.
+It has some frontline.
+It has crowd control.
+But ask a different question:
+How does this team reliably start the fight it wants?
+Now the answer becomes less obvious.
+Gnar can engage, but his strongest initiation is conditional. He needs Mega Gnar, useful terrain, sufficient access, and teammates positioned to follow.
+Lulu is primarily helping the team protect rather than force.
+Viktor prefers enemies entering controlled space.
+Jinx wants time and protection.
+Graves often wants room to operate rather than being responsible for forcing the initial commitment.
+Nothing about those champions is inherently bad.
+But the composition may have a structural dependency:
+A large portion of its teamfight plan depends on Gnar producing the right kind of initiation under the right conditions.
+That is a much more important observation than saying:
+“This composition has good scaling.”
+The issue is not whether Gnar is good.
+The issue is how much of the team's strategy depends on one conditional function.
+The Same Capability Is Not the Same Pathway
+Another common mistake is counting capabilities without asking how they interact.
+Imagine a team has three champions with crowd control.
+It is tempting to conclude:
+We have plenty of engage.
+But crowd control is not identical to initiation.
+And initiation is not identical to reliable fight access.
+Three champions may all have crowd control while requiring the fight to begin under completely different circumstances.
+One may require the opponent to walk into range.
+Another may require a flank.
+Another may only become reliable after an ally has already created access.
+The team does not necessarily have three independent ways to start a fight.
+It may have:
+one initiation pathway with three pieces inside it.
+That distinction matters.
+If all three champions depend on the same condition, the apparent redundancy can disappear.
+For example:
+Champion A requires enemy proximity.
+Champion B follows Champion A.
+Champion C follows Champion B.
+It would be misleading to describe that as three independent engage sources.
+Structurally, it may be closer to:
+Access
+→ Setup
+→ Follow-through
+Break the first step and the rest may become unavailable.
+This is why counting features can create false confidence.
+Five Champions Can Also Want Five Different Games
+There is another way a composition can fail.
+The champions may all be strong, but they may create conflicting demands.
+Suppose:
+Top wants to pressure a sidelane.
+Jungle wants to invade with priority.
+Mid needs time to scale.
+ADC wants the team grouped around them.
+Support wants to roam early.
+Every individual preference can be sensible.
+Together, they may create a resource problem.
+Who gets jungle attention?
+Who gets the safe waves?
+Who gets vision support?
+Who is supposed to play weakside?
+Who must move first for objectives?
+Who receives protection during fights?
+League has limited resources:
+gold,
+experience,
+lane priority,
+map presence,
+vision,
+cooldowns,
+attention,
+draft slots,
+time.
+A composition therefore has a kind of resource topology.
+Some plans distribute responsibility cleanly.
+Others quietly ask several players to receive the same scarce resource.
+A team can draft five individually powerful champions and discover that four of them all expect to be the center of the game.
+That is not a champion-strength problem.
+It is a systems problem.
+A Composition Should Be Able to Answer “Then What?”
+One useful way to test a draft is to keep asking:
+Then what?
+Suppose someone says:
+We have strong engage.
+Then what?
+We start the fight.
+Then what?
+We burst a target.
+Then what?
+We win the fight.
+That final jump may be hiding the entire problem.
+Can the rest of the team reach the target?
+Can they continue dealing damage after the first cooldowns?
+Can the enemy disengage?
+Does the engage leave your own carry exposed?
+What if the target survives?
+What happens if the opponent refuses the fight?
+What happens after the kill?
+Can you convert Baron, Dragon, a tower, or map control?
+A coherent composition should have plausible answers across several transitions.
+For example:
+Find isolated target
+→ establish access
+→ constrain escape
+→ concentrate damage
+→ secure kill
+→ convert numerical advantage
+That is much more informative than:
+“This is a pick comp.”
+The label is useful, but the pathway explains how the strategy works.
+Good Compositions Often Have Backup Routes
+A strong composition also does not necessarily need one perfect plan.
+In fact, having only one plan can make a draft brittle.
+Imagine two compositions.
+Composition A
+It has an extremely powerful front-to-back teamfight.
+But nearly everything depends on one champion successfully creating the first engagement.
+If that champion is behind, denied access, or forced to use cooldowns defensively, the team's strategy deteriorates rapidly.
+Composition B
+Its primary teamfight is slightly weaker.
+But it can also:
+threaten picks,
+disengage,
+pressure a sidelane,
+contest space around objectives.
+Which composition is better?
+There is no universal answer.
+But Composition B possesses something strategically valuable:
+Optionality.
+It has multiple ways to turn the game into a favorable state.
+That can make it more robust against uncertainty.
+This becomes especially important during draft.
+A champion may be slightly worse for the team's current plan while preserving several future plans.
+Another champion may maximize the current plan but commit the remaining draft very heavily.
+The better pick depends on how much you value immediate strength versus future flexibility.
+That is a strategic tradeoff, not something a static champion score can settle.
+Early Picks Create Obligations
+This is why first picks deserve special attention.
+Suppose a team first-picks Jinx.
+The pick immediately supplies valuable things:
+scaling,
+sustained damage,
+strong fight conversion.
+But it may also create future demand for:
+peel,
+frontline,
+protected attack windows,
+reliable setup.
+In other words, the team has not simply acquired Jinx.
+It has also created a set of future obligations.
+A useful way to think about an early pick is:
+**Anchor value
+= immediate value
+future synergy
+− future support cost**
+That final term is easy to ignore.
+A champion can be extremely powerful while still being expensive to build around.
+If the remaining champion pool provides many cheap ways to satisfy those future requirements, the commitment may be excellent.
+If the necessary supporting capabilities are scarce, heavily contested, role-constrained, or vulnerable to bans, the same first pick can become much more expensive.
+This is one reason champion value cannot be completely separated from draft state.
+The value of a pick depends partly on what it makes you need next.
+The Opponent Gets a Vote
+Composition analysis also becomes much more useful when the opponent is treated as an active participant.
+Suppose your team has built a beautiful pathway:
+Engage
+→ lock down target
+→ follow through
+→ Jinx attack window
+→ objective conversion
+The obvious question is:
+Does the pathway work?
+The stronger question is:
+Where would the opponent attack it?
+Perhaps the enemy drafts disengagement.
+Now your initiation may still occur, but follow-through becomes unreliable.
+Perhaps they draft backline access.
+Now Jinx's protected attack window becomes expensive to maintain.
+Perhaps they avoid your teamfight entirely and create sidelane pressure.
+Now your strongest pathway may be difficult to realize because the game refuses to enter the state your composition prefers.
+This leads to an important principle:
+A good team composition is not merely internally coherent. It must remain coherent after an opponent begins interfering with it.
+That is a much higher standard.
+There Is No Universal “Good Draft”
+This also explains why draft grades can be misleading.
+Suppose someone asks:
+Is this composition an 8/10?
+The question sounds precise, but precise relative to what?
+A composition might be excellent if:
+your players are comfortable on the champions,
+the opponent must engage into you,
+objectives force grouped fights,
+your scaling arrives on time.
+The same composition may be weak if:
+your frontline player cannot reliably realize the required engagement,
+the opponent can split the map,
+your lanes cannot produce priority,
+your primary damage source is easily accessed.
+So instead of asking:
+How good is this draft?
+ask:
+Under what conditions is this draft good?
+And then:
+Which of those conditions are fragile?
+That transforms draft analysis from ranking into reasoning.
+A Better Composition Checklist
+The next time you look at five champions, don't start by asking whether each champion is strong.
+Ask:
+1. What is the team trying to accomplish?
+Can you describe the strategic result clearly?
+2. What pathway gets the team there?
+What must happen first, second, and third?
+3. Which capabilities does that pathway require?
+Initiation? Access? Peel? Wave control? Damage? Disengagement?
+4. Who supplies each capability?
+And are those providers independent?
+5. What conditions have to be true?
+Does someone require a flank? Setup time? Lane priority? Frontline?
+6. Where are the bottlenecks?
+What single failure would disrupt several parts of the plan?
+7. Are there competing resource demands?
+Does everyone need the same gold, attention, or map priority?
+8. What alternative pathways exist?
+If Plan A becomes unavailable, what can the team do instead?
+9. How does the opponent attack the structure?
+Not just which champion counters which champion.
+10. What would make your assessment change?
+This may be the most important question of all.
+A strategic judgment should have conditions under which it can be revised.
+The Difference Between a Roster and a Composition
+Five champions are a roster.
+A composition is something more.
+A composition contains relationships:
+Who enables whom?
+Who protects whom?
+Who creates the conditions another champion needs?
+Where do resources go?
+What happens when the opponent interferes?
+What does the team do if its first pathway fails?
+Those relationships are what transform five champion selections into a strategy.
+And that leads to a much more useful way to think about drafting:
+The goal isn't to collect the five strongest pieces.
+The goal is to construct a system whose pieces make one another strategically useful.
+Sometimes that means taking the champion with the highest individual upside.
+Sometimes it means taking the champion that fills the missing structural role.
+Sometimes it means taking a seemingly weaker champion because they preserve two different ways to play the game.
+And sometimes five very good champions still make a bad team.
+Not because the players drafted bad champions.
+Because they never finished building the system.
+

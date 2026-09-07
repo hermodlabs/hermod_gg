@@ -1,0 +1,470 @@
+The Best Pick Can Be the One That Does Less
+League of Legends drafting encourages a very natural instinct:
+Take the pick that gives you the most value right now.
+If one champion gives you stronger lane pressure, better teamfighting, more reliable engage, and better scaling than another, the decision seems obvious.
+Choose the stronger champion.
+But that logic can fail in a sequential draft.
+Because a pick does not only determine what your team has.
+It also determines what your team can still become.
+Sometimes the champion that contributes less immediately preserves several strong future possibilities.
+Sometimes the champion that looks strongest right now quietly commits the rest of the draft to solving the problems it creates.
+And sometimes:
+The best pick is the one that does less now because it leaves you able to do more later.
+That is the strategic value of optionality.
+Immediate Value Is Only Part of Draft Value
+Suppose Blue is choosing between two champions.
+Champion A strongly supports the team's current front-to-back plan.
+Champion B supports that plan less strongly, but also leaves open:
+dive;
+counter-engage;
+pick;
+split pressure.
+If we score only the current composition, Champion A wins.
+Imagine:
+VA=10V_A=10
+and:
+VB=7.V_B=7.
+A simple optimizer concludes:
+Pick A.
+But the draft is not over.
+There are still:
+enemy picks;
+enemy bans;
+unresolved roles;
+matchup information;
+champion-pool constraints;
+future strategic choices.
+Champion B may contain something Champion A does not:
+The right to wait before deciding what kind of composition this will become.
+That right has value.
+Drafting Is a Sequential Decision Problem
+You do not choose five champions simultaneously.
+You make one decision.
+Then the opponent makes one.
+Then the available world changes.
+You learn something.
+Another champion disappears.
+A flex pick may become fixed.
+A counter becomes visible.
+A strategy becomes more or less attractive.
+Then you choose again.
+That means the value of preserving future choices can be substantial.
+A pick that is slightly weaker in the current state may become stronger when evaluated across the range of future states that could still occur.
+So instead of thinking:
+Pick Value=Immediate Contribution\text{Pick Value}=\text{Immediate Contribution}
+we need something closer to:
+Pick Value=Immediate Contribution+Future Option Value.\text{Pick Value} = \text{Immediate Contribution} + \text{Future Option Value}.
+The second term is easy to ignore because it is not yet visible on the scoreboard.
+But during draft, it can be decisive.
+Flex Picks Are the Obvious Example
+Suppose Gragas can plausibly remain Top or Jungle.
+If you pick him early, you have not only secured Gragas.
+You have preserved ambiguity.
+That ambiguity may allow you to wait before deciding:
+where your frontline comes from;
+which matchup you are willing to reveal;
+whether Top becomes carry-oriented;
+whether Jungle becomes utility-oriented;
+how the opponent should allocate its counters.
+The value of the flex is therefore not just:
+Gragas can play two roles.
+Its deeper value is:
+The opponent must reason across multiple futures while you retain the right to choose later.
+That is option value.
+The pick may even be slightly weaker than another champion in one role.
+But if it preserves enough future structure, it can still be strategically superior.
+Optionality Is Not the Same as Vagueness
+This distinction matters.
+A composition is not strategically flexible merely because nobody knows what it is doing.
+That is confusion.
+Useful optionality means:
+Several coherent future pathways remain available.
+Suppose after three picks Blue can still plausibly complete:
+Front-to-Back;
+Engage & Follow-through;
+Pick & Collapse.
+That is meaningful optionality.
+Now imagine another draft where Blue has five individually flexible champions but no clear pathway among them.
+That is not strategic flexibility.
+That is unresolved structure.
+Optionality is valuable only when the available branches are themselves viable.
+The Difference Between “Can” and “Could Still”
+This is a useful way to think about it.
+Ask two different questions.
+What can our composition do now?
+This measures current coverage.
+What could our composition still become?
+This measures future optionality.
+Those are not the same thing.
+A highly specialized draft might score extremely well on the first question and poorly on the second.
+A flexible partial draft might look less complete right now but preserve several powerful completions.
+Neither is universally better.
+The choice depends on how much uncertainty remains.
+Optionality Is More Valuable When Information Is Missing
+Imagine you know almost everything about the opposing draft.
+All five enemy champions are visible.
+Their roles are clear.
+Their intended strategy is obvious.
+In that situation, preserving flexibility may not matter very much.
+You have the information.
+Commit.
+Now imagine B1.
+You know almost nothing.
+The opponent has not revealed:
+strategy;
+important roles;
+access mechanisms;
+damage profile;
+scaling;
+preferred fight structure.
+Here, preserving options can be much more valuable.
+This gives us a general rule:
+The value of optionality tends to rise with unresolved uncertainty.
+The less you know about the future, the more valuable it can be to retain the ability to adapt to it.
+A Pick Can Be Strong and Still Commit Too Early
+Suppose Blue begins with Jinx.
+That creates a powerful strategic asset.
+But it may also increase future demand for:
+protection;
+frontline;
+safe attack windows;
+structured fight setup.
+Now suppose Blue immediately follows with Lulu.
+The Jinx pathway becomes stronger.
+But Blue has also revealed even more.
+The composition is increasingly committed to protecting sustained damage.
+That might be excellent.
+But the relevant question is no longer:
+Is Jinx + Lulu strong?
+It clearly can be.
+The question is:
+Was this the right moment to commit so much of the draft to that structure?
+Perhaps yes.
+Perhaps the team has deep supporting champion pools.
+Perhaps the opponent has already revealed enough.
+Perhaps the pathway is so strong that concealment no longer matters.
+But perhaps Blue could have selected a champion that supported Jinx while preserving another plausible strategic direction.
+Then the cost of the stronger immediate pairing becomes more visible.
+Commitment Has Opportunity Cost
+Every time you strengthen one pathway, you may weaken another.
+Suppose a pick produces:
++3+3
+value for Front-to-Back.
+That sounds good.
+But imagine the same pick also makes Dive and Split Pressure effectively impossible.
+The true change is not:
++3.+3.
+It is:
++3 to one pathway−the value of the pathways you gave up.+3\ \text{to one pathway} - \text{the value of the pathways you gave up}.
+Those abandoned possibilities are an opportunity cost.
+You did not merely gain something.
+You stopped being able to become something else.
+That is why two picks with similar immediate contribution can have very different strategic value.
+The Best Pick Can Preserve a Branch
+Imagine Blue has:
+Top: unknown
+Jungle: Maokai
+Mid: Orianna
+ADC: Jinx
+Support: unknown
+The team currently has the beginnings of a strong structured teamfight composition.
+Now Blue considers two Top champions.
+Option A: Ornn
+Ornn strongly reinforces:
+frontline;
+initiation;
+front-to-back structure.
+The plan becomes extremely coherent.
+Option B: Gragas
+Gragas may provide somewhat less pure front-to-back strength.
+But depending on role and later picks, he might preserve:
+frontline;
+disengagement;
+pick;
+flexible role assignment;
+different fight geometries.
+If Blue already knows Red's entire plan, Ornn may be clearly preferable.
+But if major uncertainties remain, Gragas may buy something valuable:
+time.
+Not game time.
+Decision time.
+Blue can wait for more information before deciding exactly what kind of team it wants to become.
+Preserving a Pathway Has Value Even If You Never Use It
+This can feel strange.
+Suppose Gragas preserves a Pick & Collapse pathway.
+Blue eventually does not use it.
+Was that optionality wasted?
+Not necessarily.
+The possibility itself may have influenced the opponent.
+If Red has to respect both:
+structured front-to-back;
+pick threat;
+it may have to draft differently.
+It may delay a role reveal.
+It may spend a ban differently.
+It may preserve a defensive option it would otherwise abandon.
+So a branch can create strategic value even if it is never chosen.
+The opponent must spend reasoning and draft resources accounting for it.
+This is similar to how a threat in gameplay can matter without being executed.
+The option changes behavior.
+Optionality Can Have Information Value
+A flexible pick also lets you learn.
+Suppose you select a champion who fits several possible compositions.
+The opponent responds.
+Now you know more.
+Maybe Red reveals heavy disengagement.
+The Dive pathway becomes less attractive.
+Maybe Red reveals low range.
+Poke becomes more appealing.
+Maybe Red commits to strong front-to-back.
+Split Pressure becomes more attractive.
+The flexible pick allowed you to postpone commitment until after receiving that information.
+That means optionality can function as a form of information acquisition:
+Preserve options now so later decisions can be conditioned on better information.
+This is especially important early in draft.
+But Optionality Is Not Free
+If optionality were always good, every team would just maximize flexibility forever.
+That would also be wrong.
+Preserving choices has costs.
+A flexible champion may:
+be weaker in the expected matchup;
+provide less immediate synergy;
+have lower player comfort;
+fail to fully solve an urgent structural need;
+delay necessary commitment;
+create execution complexity.
+So we can think of the tradeoff as:
+Net Optionality Value=Future Branch Value+Information Value+Concealment Value−Immediate Performance Cost−Complexity Cost.\text{Net Optionality Value} = \text{Future Branch Value} + \text{Information Value} + \text{Concealment Value} - \text{Immediate Performance Cost} - \text{Complexity Cost}.
+Sometimes the number is positive.
+Sometimes it is not.
+The point is not:
+Always draft flexibly.
+The point is:
+Treat preserved possibilities as a real asset instead of pretending only immediate contribution matters.
+There Is Such a Thing as Too Much Optionality
+A team can also preserve options past the point where commitment becomes necessary.
+Suppose by B4 your composition still has:
+no reliable initiation;
+no clear damage profile;
+uncertain lane assignments;
+multiple possible pathways.
+You might describe that as flexible.
+But perhaps what you really have is indecision.
+Eventually the team must convert possibilities into an executable plan.
+Optionality is useful because it lets you choose later.
+It is not useful if you never choose.
+This creates another strategic problem:
+When should a draft stop preserving options and start completing a pathway?
+That is a timing question.
+Early draft may reward flexibility.
+Late draft increasingly rewards coherence.
+The Value of Optionality Changes Over Time
+Imagine you have five draft decisions remaining.
+Preserving three future pathways can be valuable.
+Now imagine only one pick remains.
+If none of those pathways is complete, having three possibilities is not impressive.
+It may be a liability.
+So option value often decays as the draft progresses.
+Early:
+preserve useful possibilities.
+Middle:
+learn from opponent responses.
+Late:
+convert preserved options into a coherent plan.
+That gives us a useful draft rhythm:
+Preserve
+→ Observe
+→ Commit
+→ Complete
+A strong draft does not maximize flexibility at every stage.
+It manages the timing of commitment.
+The Opponent Can Attack Your Optionality
+Optionality can also be denied.
+Suppose a champion preserves both:
+Front-to-Back;
+Dive.
+But both future pathways depend on only three remaining support champions.
+The opponent bans two.
+Suddenly your apparent flexibility collapses.
+This means option value should not be counted only by the number of pathways still technically available.
+You also need to ask:
+How robust are those options to future denial?
+A pathway supported by ten realistic champion combinations is very different from one supported by a single fragile branch.
+This is the difference between:
+possible
+and:
+safely preservable.
+Fake Optionality
+This creates another common mistake.
+Suppose your draft technically supports three pathways.
+But:
+Pathway A requires a champion nobody on the roster plays.
+Pathway B depends on a role already heavily constrained.
+Pathway C requires a champion likely to be banned.
+You do not really have three options.
+You have one realistic option and two theoretical ones.
+Good optionality must be realizable.
+That means it depends on:
+champion pools;
+role assignments;
+player comfort;
+remaining bans;
+opponent incentives.
+A possibility that your team cannot actually execute should not be counted as meaningful flexibility.
+Optionality Is Team-Specific
+This is why the same flex pick can have different value for different teams.
+Suppose Gragas can flex Top/Jungle.
+Team A has:
+excellent Gragas Top;
+excellent Gragas Jungle;
+deep replacement pools in both roles.
+For Team A, the flex is real.
+Team B's Jungler cannot play Gragas comfortably.
+Now the theoretical flex is mostly cosmetic.
+The champion still has multiple professional role assignments.
+But the team's actual option set does not.
+This gives us an important principle:
+Strategic optionality belongs to the roster, not just the champion.
+A flex pick is only flexible if your actors can realize the branches.
+Optionality Also Exists Above Roles
+Flexibility is often discussed only as:
+Champion can play Top or Mid.
+But strategic optionality is broader.
+A champion might preserve multiple:
+pathways;
+resource structures;
+fight styles;
+lane allocations;
+objective plans.
+Consider a champion who can participate effectively in both:
+Engage & Follow-through
+and:
+Pick & Collapse.
+Even if the champion has only one role, that can still be strategically flexible.
+The most interesting question is therefore not:
+How many roles can this champion play?
+It is:
+How many coherent futures does this pick preserve?
+Diversification Versus Completion
+Now imagine the draft already has one nearly complete pathway.
+You have:
+Access
+→ Control
+→ Damage
+→ ?
+→ Conversion
+One candidate closes the final missing requirement.
+Another creates an entirely new secondary pathway.
+Which should you choose?
+The closer creates completion value.
+The diversifier creates option value.
+Again, neither is universally better.
+If the primary pathway is fragile or easy to counter, diversification may be valuable.
+If the primary pathway is extremely strong and difficult to disrupt, completion may dominate.
+This is a genuine strategic tradeoff:
+Do we make our best plan stronger, or do we create another way to win?
+That is a much better question than:
+Which champion has the highest score?
+Redundancy Is Another Form of Option Value
+Suppose you already have initiation.
+Do you need more?
+Maybe not.
+But if your only initiation source is highly conditional, a second independent initiation route could be extremely valuable.
+The second champion may appear to “do less” because they do not add a completely new capability.
+But they may create a backup pathway.
+For example:
+Primary initiation fails
+→ secondary initiation remains available
+That increases robustness.
+So not all apparently redundant picks are wasteful.
+The question is:
+Does the additional capability create an independent route, or does it merely duplicate the same dependency?
+True redundancy preserves options after failure.
+Fake redundancy collapses with the same bottleneck.
+Optionality Matters Because Opponents Adapt
+If the opponent were passive, you could simply choose the strongest known plan.
+But the opponent is actively trying to make your plan worse.
+That makes adaptability valuable.
+Suppose you reveal one rigid pathway early.
+Red can spend its remaining draft deliberately attacking it.
+But if Blue preserves two or three credible structures, Red has a harder problem.
+Whatever it attacks, Blue may still have somewhere else to go.
+This gives optionality an adversarial value:
+A strategy with several credible futures is harder to counter efficiently.
+The opponent may be forced to hedge.
+And hedging is expensive.
+A Pick Can Make the Opponent Pay for Uncertainty
+This is perhaps the strongest way to think about flex value.
+A flexible pick does not merely preserve options for you.
+It can impose uncertainty costs on the opponent.
+Suppose Red cannot tell whether a champion will:
+Top or Jungle;
+engage or disengage;
+support Dive or Front-to-Back.
+Red may now need to select a response that survives several interpretations.
+That can force Red away from a highly specialized counter.
+So the value of your option is partly:
+your adaptability+their uncertainty cost.\text{your adaptability} + \text{their uncertainty cost}.
+That is much richer than:
+flex pick good.
+When the Stronger Pick Really Is Better
+None of this means you should fetishize optionality.
+Sometimes Champion A simply should be picked.
+Suppose:
+you already know the enemy composition;
+the team has chosen its strategic objective;
+the pathway is clear;
+Champion A completes it;
+the opponent has few ways to disrupt it;
+your players can execute it comfortably.
+Then preserving theoretical alternatives may simply reduce the strength of the plan you actually intend to play.
+At that point:
+Commitment is not a flaw.
+It is the point of drafting.
+The mistake is not commitment.
+The mistake is committing before the value of commitment exceeds the value of waiting.
+A Better Pick Evaluation
+Instead of asking only:
+What does this champion add?
+ask:
+1. What does this champion add immediately?
+Capabilities, matchups, synergy, resources.
+2. Which pathways become stronger?
+What does the pick help complete?
+3. Which pathways disappear?
+What are you giving up?
+4. Which roles or responsibilities become fixed?
+How much ambiguity remains?
+5. What new information will arrive before the next commitment?
+Can waiting improve the next decision?
+6. How easily can the opponent attack the options you preserved?
+Are they real or fragile?
+7. Can your roster actually execute every preserved branch?
+Theoretical flexibility is not enough.
+8. What is the cost of waiting?
+Are you leaving an urgent structural problem unresolved?
+Those questions turn optionality into something you can reason about rather than something you simply praise.
+The Best Pick Can Be the One That Does Less
+Suppose one champion:
+gives more immediate damage;
+more lane pressure;
+more obvious synergy.
+And another:
+gives slightly less now;
+preserves two roles;
+keeps three pathways alive;
+reveals less to the opponent;
+allows the team to learn from the next enemy pick before committing.
+The second champion may look weaker in a static comparison.
+But the draft is not static.
+It is a sequence of decisions under uncertainty.
+That changes the meaning of value.
+The best pick is not always the champion that contributes the most to the current composition.
+Sometimes it is the champion that preserves the most valuable future decisions.
+That is why:
+Doing less now can be strategically better if it keeps you able to do more later.
+The important question is not merely:
+What does this pick give us?
+It is also:
+What does this pick leave us free to become?
+

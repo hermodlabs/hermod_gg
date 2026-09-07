@@ -1,0 +1,315 @@
+# You Don’t Have Three Engage Champions. You Have One Engage Pathway.
+
+League of Legends compositions are often described with capability counts: three engage champions, two sources of peel, plenty of frontline, enough damage.
+
+That inventory is useful, but it can be misleading.
+
+Suppose three champions can theoretically start a fight. What if all three require the same flank, vision control, enemy positioning mistake, allied follow-up, or range window?
+
+Then you may not have three ways to engage. You may have:
+
+> **one engage pathway with three champions participating in it.**
+
+That distinction separates **capability count** from **strategic redundancy**. Confuse the two and a composition looks much more robust than it is.
+
+## Start With a Simple Example
+
+Imagine Blue drafts:
+
+**Top:** Gnar  
+**Jungle:** Sejuani  
+**Mid:** Orianna  
+**ADC:** Jinx  
+**Support:** Rakan
+
+Gnar, Sejuani, and Rakan can all initiate. Orianna can amplify initiation. Blue appears to have engage everywhere.
+
+Now ask how each champion starts a **useful** fight.
+
+Gnar may need Mega Gnar, terrain, access, and nearby follow-up. Sejuani needs range, target exposure, and room to commit. Rakan needs an entry route, protection from punishment, and allies ready to collapse.
+
+These may all depend on one upstream condition:
+
+> **Blue first needs enough space and positioning to create access.**
+
+If Red denies that condition, several different tools become difficult to realize together.
+
+## A Capability Is Not a Pathway
+
+A capability answers:
+
+> What can this champion potentially do?
+
+A pathway answers:
+
+> **What sequence of conditions and actions allows that capability to produce strategic value?**
+
+“Rakan has initiation” is a capability statement. A useful Rakan engage might require:
+
+**Create access angle
+→ cross threat space
+→ reach target
+→ apply crowd control
+→ allies follow
+→ target remains constrained
+→ damage converts the engage**
+
+If another champion depends on the same opening transitions, the raw capability count exaggerates their independence.
+
+## Three Buttons Are Not Three Strategies
+
+Gnar R, Sejuani R, and Rakan R/W give Blue three buttons. They do not automatically create three strategic routes.
+
+Suppose all work best when the opponent approaches through a narrow objective entrance. The composition is excellent there. But if Red spreads across several angles, maintains range, splits the map, or forces Blue to approach, all three tools may worsen simultaneously.
+
+> **Their failure conditions are correlated.**
+
+Correlated failure is the enemy of real redundancy.
+
+## Real Redundancy Requires Different Failure Modes
+
+Compare two initiation routes:
+
+### Route A
+
+Frontal engage through controlled space.
+
+### Route B
+
+A flank from fog.
+
+If Red prevents frontal engagement, the flank may remain. If Red controls the flank, the frontal route may still work.
+
+Now imagine both routes need a flank. Both fail when flank access disappears. That is duplication behind one dependency.
+
+The key test is:
+
+> **If the first route becomes unavailable, does the second remain available for a different reason?**
+
+## Think in Dependency Trees
+
+A naïve analysis draws three independent sources:
+
+```text
+Gnar     → Engage
+Sejuani  → Engage
+Rakan    → Engage
+```
+
+The real structure may be:
+
+```text
+Vision Control
+      ↓
+ Access Window
+  /    |    \
+Gnar Sejuani Rakan
+      ↓
+   Follow-up
+```
+
+There are three providers downstream, but all depend on **Vision Control → Access Window**. Red can attack one upstream dependency and devalue all three.
+
+Graph structure matters more than raw count.
+
+## This Problem Appears Everywhere
+
+Engage is only the easiest example.
+
+Two peel tools may both require the carry to remain within a narrow radius. Three damage champions may all require the same frontline to create time. Several forms of objective control may all require Mid priority.
+
+Multiple providers do not imply multiple routes. Blue can have Jinx, Viktor, and Graves—three damage sources—but only one damage-realization pathway if all three need stable front-to-back formation and sustained time at medium range.
+
+Attack the formation and all three degrade together.
+
+## You Need to Ask “What Must Be True?”
+
+For every capability, ask what must be true for it to matter.
+
+Rakan needs a reachable target, a survivable entry, allied follow-up, and insufficient enemy disengage. Gnar needs Mega, an angle, useful geometry, and nearby allies. Sejuani needs target exposure and enough threat behind the initiation.
+
+Compare the requirement sets. Where do they overlap?
+
+If all three depend on follow-up, reachable space, or objective terrain, that shared condition tells you how independent the routes really are.
+
+Different champions and roles do not solve the problem if they still require the same team state.
+
+## The Same Provider Can Sometimes Support Multiple Real Pathways
+
+The reverse also happens. One champion can enable distinct routes.
+
+In one scenario:
+
+**Disengage
+→ reset fight
+→ re-enter later**
+
+In another:
+
+**Catch target
+→ constrain movement
+→ burst**
+
+Same champion, different pathways. Several champions can collapse into one route; one champion can support several. The important object is the relationship between capabilities, conditions, and sequences.
+
+## A Better Way to Think About Redundancy
+
+Do not ask how many champions provide engage. Ask:
+
+> **How many independent routes exist from the current game state to a favorable fight?**
+
+### Route 1: Frontal initiation
+
+**Control approach → Sejuani initiates → Orianna follows → Jinx attacks**
+
+### Route 2: Flank
+
+**Create side angle → Rakan enters from fog → target leaves formation → Jinx follows**
+
+### Route 3: Counter-engage
+
+**Red initiates → Gnar and Orianna punish → Lulu stabilizes Jinx → Blue turns**
+
+These routes depend on different conditions. Blue now has three ways for the game to become a favorable fight, not merely three champions tagged with crowd control.
+
+## Counter-Engage Is Not the Same as Engage
+
+A champion who excels at punishing enemy initiation may receive the label “engage,” but their pathway job is **counter-engage**. They are strongest when the opponent moves first.
+
+That does not substitute cleanly for proactive initiation when your composition must force the fight.
+
+Labels such as engage, peel, and CC are too coarse on their own. You need to know what job the capability performs in the sequence.
+
+## Pathway Jobs Matter
+
+Consider:
+
+**Create access
+→ initiate
+→ constrain
+→ follow through
+→ convert**
+
+Rakan may create access and initiate. Orianna amplifies constraint and follow-through. Jinx converts.
+
+Another champion with crowd control may only contribute to constraint. If Rakan disappears, the route still lacks access and initiation. Shared capability labels do not prove job-specific substitution.
+
+Ask:
+
+> **Which job loses its provider if this champion is unavailable?**
+
+## Timing, Position, and Follow-Up Can Correlate Failure
+
+Two engage sources may rely on the same Flash, ultimate window, objective timing, or corridor. Outside that window, both disappear together. Red can bait the cooldown or control the geometry rather than answering each ability.
+
+Follow-up is often the deeper bottleneck. Blue may have three ways to start a fight while all three require Orianna and Jinx to remain close enough to capitalize.
+
+Red can create spacing between the initiator and damage line. Blue starts fights it cannot finish.
+
+The issue may look like poor coordination, but the composition itself may require an unusually narrow synchronization window.
+
+## Initiation Without Conversion Is Not a Complete Pathway
+
+Engage count is weak because a useful route is longer:
+
+**Find usable target
+→ establish access
+→ initiate
+→ maintain constraint
+→ deliver follow-up damage
+→ survive the response
+→ convert the advantage**
+
+If three initiators all feed into one fragile follow-up stage, the team has three initiation mechanisms but only **one complete engagement pathway**.
+
+## Counterplans Love Correlated Dependencies
+
+Suppose Red asks what all three engage sources need and discovers the answer is close follow-up, vision control, narrow terrain, or objective setup.
+
+Red can attack spacing, information, chokes, or cross-map pressure. It is not countering Gnar, Sejuani, and Rakan separately. It is countering their **shared prerequisite**.
+
+One response affects three champions. That is strategically efficient.
+
+> **When evaluating redundancy, count independent failure modes—not providers.**
+
+## Robustness Comes From Diverse Routes
+
+A composition with four short-range initiators may be less robust than one with two tools: a proactive long-range catch and a defensive counter-engage.
+
+Test the routes across possible worlds:
+
+1. Blue controls Dragon river first.
+2. Red controls the area first.
+3. Blue must facecheck.
+4. Red splits the map.
+5. The primary initiator has no Flash.
+
+If every route disappears in the same worlds, the draft has correlated fragility. If different routes remain available, it has robustness.
+
+Coverage asks whether the capability exists. Robustness asks whether it remains realizable after conditions change or the opponent intervenes.
+
+## Substitution Is the Real Test of Redundancy
+
+Remove the preferred provider. Can another champion perform the same pathway job under the new conditions?
+
+Do not ask whether Sejuani also has crowd control. Ask whether she can replace Rakan's backline access, rapid initiation, and ability to bring allied follow-up into range.
+
+The more specific the job, the better the analysis:
+
+> We need reliable initiation from outside the opponent's threat zone that lets Jinx and Orianna follow without breaking formation.
+
+Precision may turn three apparent providers into one. That is useful because it exposes fragility before the opponent does.
+
+## Redundancy Has a Cost
+
+You should not draft five independent ways to do everything. Draft slots are scarce, and backup routes compete with damage, lane strength, scaling, matchup quality, and other requirements.
+
+The goal is not to maximize route count. It is to avoid making a critical pathway depend on one cheap-to-attack condition.
+
+One route may be enough if it works across several terrains, formations, objective states, and providers. A narrow primary route makes backup pathways more valuable.
+
+## Sometimes the Right Pick Is the One That Changes the Failure Mode
+
+If a composition already has two frontal initiators, a third may add little resilience. A champion with disengage and counter-engage can create a new route:
+
+**Opponent engages
+→ Blue absorbs pressure
+→ counter-control lands
+→ Jinx receives an attack window**
+
+That pick does not greatly increase engage quantity. It increases **strategic diversity** by preserving value in a world where proactive initiation fails.
+
+The important question is how much strategic value disappears when the primary route is denied.
+
+## A Better Engage Checklist
+
+1. What is our preferred fight-start pathway?
+2. Which vision, range, terrain, timing, and formation conditions does it require?
+3. Which champions participate in the same route?
+4. What remains if the shared prerequisite disappears?
+5. Is there another route with different prerequisites?
+6. Does the backup preserve follow-up and conversion?
+7. Are cooldowns or positions shared?
+8. Can our roster execute the alternative route?
+9. What would the opponent attack if they understood the dependency?
+10. Which next pick changes the failure mode?
+
+## You Don’t Have Three Engage Champions. You Have One Engage Pathway.
+
+If Gnar, Sejuani, and Rakan all require Blue to control the same space, preserve the same follow-up, and satisfy the same positioning condition, their portraits exaggerate the strategic choices available.
+
+You may have three implementations, three buttons, and three champions tagged with crowd control. But when the opponent removes their shared prerequisite, all three can fail together.
+
+The important thing to count was never:
+
+> **How many champions have engage?**
+
+It was:
+
+> **How many independent ways does this team have to create a favorable fight?**
+
+If the answer is one, then you have one pathway.
+
+And your next question should be:
+
+> **What happens when the opponent figures that out?**

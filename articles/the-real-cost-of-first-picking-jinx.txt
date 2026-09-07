@@ -1,0 +1,445 @@
+The Real Cost of First-Picking Jinx
+First-picking Jinx can look simple.
+You get a powerful scaling carry.
+You secure a champion that can take over fights.
+You give your team a clear source of sustained damage and late-game conversion.
+On paper, the pick may look like pure value.
+But an early pick does more than add a champion to your composition.
+It changes what the rest of your draft now has to accomplish.
+That is the part of first-pick value that is easy to miss.
+When you first-pick Jinx, you are not merely saying:
+We want Jinx.
+You may also be saying:
+We are willing to spend future draft resources making Jinx function.
+That future cost is the real price of the pick.
+A First Pick Is a Commitment
+Draft analysis often treats champions as though they have relatively stable value.
+Jinx is strong.
+Maokai is flexible.
+Orianna has good teamfight synergy.
+Poppy counters certain forms of mobility.
+Those statements can all be useful.
+But the value of an early pick cannot be fully understood in isolation.
+A first pick changes the remaining decision space.
+It can:
+create new strategic possibilities;
+remove others;
+create dependencies;
+introduce future requirements;
+reveal information;
+consume role flexibility;
+make certain later champions more valuable;
+make particular bans more dangerous.
+In that sense, an early pick behaves more like a strategic commitment than a standalone purchase.
+The key question is not:
+How good is Jinx?
+It is:
+What does choosing Jinx now make us need later?
+What Jinx Gives You
+Start with what the pick provides.
+A simplified strategic reading of Jinx might include:
+sustained damage;
+scaling;
+strong conversion after fights begin going well;
+significant value from extended protected attack windows;
+the ability to rapidly turn a won fight into towers or objectives.
+Those are meaningful capabilities.
+But each capability becomes strategically valuable only under certain conditions.
+Sustained damage needs time.
+Time usually requires survivability.
+Survivability may require peel, frontline, positioning space, threat management, or disengagement.
+Conversion requires the team to first create a winning state.
+So the first pick may immediately create a structure like:
+Jinx
+→ needs useful attack time
+→ needs protected positioning
+→ needs enemy access controlled
+→ needs enough frontline or peel to preserve the window
+The moment Jinx enters the draft, certain future capabilities become more valuable.
+That is not necessarily a problem.
+It is a cost.
+Draft Debt
+A useful way to think about this is draft debt.
+An early pick provides something now while creating obligations the remaining draft may have to satisfy later.
+With Jinx, that debt might include:
+frontline;
+peel;
+reliable fight setup;
+space control;
+disengagement;
+safe scaling conditions;
+ways to prevent enemy backline access.
+The exact obligations depend on the rest of the draft.
+But the principle is general:
+An early commitment can create future strategic demand.
+Consider a simple draft.
+Blue first-picks:
+Jinx
+Nothing else has been selected.
+At that moment, the pick gives Blue a powerful damage engine.
+But Blue has not yet secured the conditions under which that damage engine becomes reliable.
+Now Blue may strongly value champions such as:
+Braum;
+Lulu;
+Nautilus;
+Maokai;
+Ornn;
+Poppy;
+Orianna;
+depending on what the team wants to build.
+Those champions have not changed.
+What changed is Blue's demand for what they provide.
+Jinx altered their strategic value.
+Champions Do Not Have Fixed Draft Value
+Suppose Ornn is available before Jinx is picked.
+His value may be moderate.
+After Jinx is selected, Ornn may become much more attractive.
+Why?
+Because he can potentially supply several things the partial composition now wants:
+frontline;
+initiation;
+space for sustained damage;
+a stable front-to-back structure.
+The champion did not become stronger between picks.
+The game did not change.
+The patch did not change.
+The draft state changed.
+That means Ornn's value is conditional:
+V(Ornn∣Jinx already selected)>V(Ornn∣empty draft)V(\text{Ornn} \mid \text{Jinx already selected}) > V(\text{Ornn} \mid \text{empty draft})
+This is why static champion ratings are incomplete.
+A champion's value is partly the value of the structural problems they solve at that exact point in the draft.
+Jinx Creates Derived Demand
+This gives us a useful way to think about draft construction.
+Suppose Blue has:
+Jinx + Orianna
+The team may now be developing toward a structured front-to-back fight.
+A simplified pathway could look like:
+Reliable initiation
+→ Orianna follow-up
+→ protected Jinx attack window
+→ sustained damage
+→ fight conversion
+There is a missing piece.
+Blue needs someone to reliably create or stabilize the fight.
+Suddenly champions providing initiation or frontline have increased value.
+The team does not necessarily want Maokai specifically.
+It wants:
+the strategic function required to complete the pathway.
+Maokai is one way to provide it.
+So are several other champions.
+This distinction matters.
+The need exists at the capability level before it exists at the champion level.
+That means the draft has created derived demand.
+Jinx has indirectly increased the value of champions that help create the environment in which she can operate.
+The Support Cost of an Anchor
+This leads to a more complete way to think about an early pick.
+We can describe its strategic value roughly as:
+Anchor Value=Immediate Value+Future Synergy−Future Support Cost\text{Anchor Value} = \text{Immediate Value} + \text{Future Synergy} - \text{Future Support Cost}
+The first two terms are intuitive.
+Jinx gives you immediate strategic value.
+She also creates future synergies with champions who can protect, enable, or stabilize her.
+The third term is the one that is usually ignored.
+Future Support Cost
+How much of your remaining draft must be spent making the anchor work?
+Imagine two situations.
+Draft A
+You first-pick Jinx.
+Your remaining player pools contain:
+multiple reliable engage options;
+several supports with strong peel;
+flexible frontline picks;
+several Mid champions who function well in structured fights.
+Jinx's support cost is relatively low.
+You have many ways to construct the necessary surrounding structure.
+Draft B
+You first-pick Jinx.
+Your players' realistic pools contain:
+very little frontline;
+mostly aggressive engage supports;
+carry-oriented Tops;
+Mid champions that want to play independently;
+few reliable ways to deny enemy backline access.
+Now Jinx may still be powerful.
+But she is expensive.
+The team may have to spend several later picks solving the obligations created by B1.
+Same champion.
+Different cost.
+Anchor Burden
+We can call this Anchor Burden:
+How much future draft capital must be spent supporting an early commitment?
+Draft capital includes more than pick slots.
+It can include:
+role flexibility;
+future pick priority;
+access to contested champions;
+ban vulnerability;
+champion-pool depth;
+strategic optionality.
+Suppose Jinx needs reliable protection.
+There are eight champions in your realistic roster pools that can provide it.
+Anchor burden is manageable.
+Now the opponent selects one.
+Then bans two more.
+Another conflicts with your Top player's champion pool.
+Two require Support, but you already committed that role.
+Suddenly the number of realistic solutions may fall from:
+88
+to:
+22
+Jinx herself has not changed.
+But the cost of satisfying the structure around her has increased dramatically.
+That is what an ordinary champion score misses.
+Bans Change the Price of Your Commitment
+Suppose Blue's draft currently needs:
+frontline;
+reliable initiation.
+And the remaining solutions are:
+Ornn;
+Maokai;
+Sejuani;
+Gragas.
+The opponent bans Ornn.
+Now there are three solutions.
+They ban Maokai.
+Now there are two.
+The important effect is not merely:
+You can't pick Ornn.
+Something else happened.
+Every remaining solution to your structural requirement became more valuable.
+The opponent created scarcity.
+And scarcity changes your future choices.
+You may now have to:
+spend an earlier pick securing the remaining solution;
+reveal a role sooner than you wanted;
+accept a weaker matchup;
+sacrifice flex value;
+abandon another pathway.
+The ban therefore has an indirect cost.
+It raises the strategic price of completing the composition.
+This Is Why Some Bans Feel Disproportionately Painful
+Sometimes a ban appears strange if you only look at champion strength.
+Why spend a ban on a champion that is not statistically dominant?
+Because the champion may represent one of the few remaining cheap solutions to a structural problem.
+Suppose Blue can satisfy both:
+frontline;
+engage;
+with Maokai in one slot.
+If Maokai disappears, Blue may have to solve those needs with two separate champions.
+That means one ban just consumed an additional future pick slot indirectly.
+The strategic effect is much larger than:
+Maokai removed.
+The real effect may be:
+Blue now needs two decisions to solve what one decision previously solved.
+That is a serious increase in Anchor Burden.
+Compression Has Value
+This introduces another important concept: compression value.
+Suppose your remaining composition still needs:
+frontline;
+initiation;
+magic damage.
+Champion A gives you frontline.
+Champion B gives you initiation.
+Champion C gives you magic damage.
+You can solve the problem with three picks.
+Now imagine Champion D provides meaningful amounts of all three.
+Champion D is not merely worth:
+Frontline+Initiation+MagicDamageFrontline + Initiation + Magic Damage
+The champion also preserves an extra pick slot for something else.
+That preserved pick has value.
+Maybe it becomes:
+peel;
+wave control;
+another damage source;
+a flex pick;
+a secondary win condition.
+So compression creates option value.
+This is especially important after an early anchor has already created multiple obligations.
+The more things your first pick makes you need, the more valuable champions become who can solve several needs at once.
+A Strong Anchor Can Still Be a Bad Commitment
+This is where the reasoning becomes uncomfortable.
+Suppose Jinx is one of the strongest ADC options in the patch.
+That does not automatically mean she is the best first pick for your team.
+Because the question is not merely:
+How much value does Jinx provide?
+It is:
+How much net strategic value does Jinx provide after accounting for the cost of constructing the rest of the draft around her?
+A weaker individual champion could theoretically be a stronger anchor if that champion:
+preserves more pathways;
+requires less support;
+allows more role flexibility;
+is less vulnerable to targeted bans;
+places fewer demands on specific teammates.
+This does not mean:
+Always choose flexible champions.
+It means:
+Immediate strength and future optionality are different forms of value.
+Drafting requires trading between them.
+Compare Two Anchors
+Imagine Blue can first-pick either Jinx or Gragas.
+Jinx
+Immediate value:
+excellent sustained damage;
+strong scaling;
+powerful conversion.
+But likely future demands:
+protection;
+frontline;
+safe attack windows;
+reliable fight structure.
+Gragas
+Immediate value may be less concentrated.
+But Gragas could potentially preserve:
+multiple roles;
+engage;
+disengage;
+frontline;
+pick possibilities;
+several composition directions.
+One pick maximizes a particular strategic asset.
+The other preserves more future choices.
+Which is better?
+There is no universal answer.
+That is exactly the point.
+The decision depends on:
+player pools;
+opponent bans;
+available substitutes;
+preferred team identity;
+intended pathways;
+expected response;
+tolerance for early commitment.
+This is why first-pick analysis should not collapse into a champion tier list.
+Flexibility Is a Real Asset
+Suppose Champion A gives you:
+1010
+units of immediate strategic value but strongly commits the team to one pathway.
+Champion B gives:
+77
+units of immediate value but preserves three plausible pathways.
+A naïve ranking chooses Champion A.
+But Champion B contains something else:
+future option value.
+The team can wait for more information before committing.
+That matters because drafting is sequential.
+You do not make all ten decisions simultaneously.
+Every pick reveals information.
+Every ban removes possibilities.
+Every opponent action changes the value of what remains.
+A flexible early pick gives you the right to delay a strategic commitment until the world becomes clearer.
+That right has value.
+Early Picks Also Reveal Information
+There is another cost.
+First-picking Jinx may tell the opponent something about what you are likely trying to construct.
+Not everything.
+But something.
+The opponent may infer:
+likely teamfight orientation;
+probable protection requirements;
+likely support profiles;
+future frontline demand;
+potential vulnerabilities to access.
+This may make counterplanning easier.
+The opponent can begin asking:
+What does Jinx need?
+Then:
+Which of those needs can we make difficult to satisfy?
+That means the anchor does not merely create internal obligations.
+It can also reveal where the opponent should attack.
+The Opponent Can Attack the Support Structure
+Suppose Blue's Jinx composition eventually becomes:
+Ornn
+Sejuani
+Orianna
+Jinx
+Lulu
+The structure is clear.
+The team wants stable front-to-back fights with substantial protection and sustained damage.
+A simplistic opponent response is:
+Counter Jinx.
+But a stronger response is:
+Attack the pathway that makes Jinx strategically useful.
+Maybe that means:
+deny safe formation;
+outrange the setup;
+force rotations before Blue can establish structure;
+draft backline access;
+split the map;
+disrupt the fight before Jinx gets sustained attack time.
+The opponent does not necessarily have to beat Jinx directly.
+They can make Blue's investment in supporting Jinx difficult to realize.
+That is a counterplan.
+And it exposes the danger of a high-burden anchor:
+If the opponent can cheaply attack the dependencies your anchor created, the entire composition can become strategically expensive.
+The Exposure Problem
+There is an even worse outcome.
+Imagine you have partially committed to supporting Jinx.
+You spend one pick on frontline.
+Then the opponent removes the remaining reliable peel options.
+Now you have invested draft capital into part of the supporting structure without being able to complete it efficiently.
+This is an incomplete commitment risk.
+You have built part of a bundle whose complementary pieces became unavailable.
+The composition may now contain individually reasonable picks that no longer assemble cleanly into the strategy you intended.
+That is how a draft can drift into:
+five good champions that no longer form the original plan.
+The mistake may have started several picks earlier.
+The First Pick Changes the Value of Everything After It
+This leads to the deeper principle.
+The moment you first-pick Jinx:
+some champions become more valuable;
+some become less valuable;
+certain capabilities become scarce;
+some future bans become more dangerous;
+some pathways become easier;
+others become harder;
+your opponent learns something;
+your remaining picks become constrained by the obligations you have created.
+So the true unit of analysis is not:
+Jinx.
+It is:
+Jinx plus the future possibility space created by selecting her now.
+That is a very different way to think about drafting.
+A Better First-Pick Question
+Instead of asking:
+Is Jinx a good first pick?
+Try asking five questions.
+1. What does this anchor provide immediately?
+What strategic assets are you securing now?
+2. What obligations does it create?
+What does the remaining composition now need to supply?
+3. How expensive are those obligations?
+How many realistic champions can satisfy them?
+Are those champions contested?
+Are they role-constrained?
+Can one champion solve several requirements?
+4. What futures does the pick preserve or eliminate?
+Can the composition still pivot?
+Or has the team already committed heavily to one pathway?
+5. How can the opponent increase the cost?
+Which bans, picks, or structural responses can make the support requirements harder to satisfy?
+Now the evaluation becomes much richer than:
+Jinx is S-tier.
+The Real Cost of First-Picking Jinx
+The cost is not that Jinx is weak.
+The cost is not that scaling carries are bad.
+The cost is not even that she requires protection.
+The real cost is:
+Every early commitment changes the price of your future decisions.
+Sometimes that price is cheap.
+Your roster naturally supports the champion.
+The relevant capabilities are abundant.
+The opponent cannot easily deny them.
+The anchor preserves enough options.
+In that situation, first-picking Jinx may be excellent.
+Other times, the commitment creates a chain of increasingly expensive obligations.
+You need frontline.
+Then peel.
+Then role flexibility.
+Then a safe Mid matchup.
+Then the opponent bans the only champion who compresses two of those needs.
+Suddenly the original “strong first pick” has consumed much more of the draft than the first champion slot suggests.
+That is why the most important question about an early pick is not:
+What did we gain?
+It is:
+What did we just make ourselves responsible for solving?
+Because the real price of a first pick is paid with the rest of the draft.
+

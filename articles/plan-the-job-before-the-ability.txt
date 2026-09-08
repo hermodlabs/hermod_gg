@@ -1,0 +1,51 @@
+# Plan the Job Before the Ability
+
+Maya is practicing Ahri into Lux in middle lane. She wants to step forward, land a short exchange, and leave. She knows which buttons deal damage. The uncomfortable question comes afterward: what will get her out if Lux can answer?
+
+Lane Play Lab helps her choose mechanisms for a complete play and see how one choice changes the next. The skill she is practicing is keeping a useful sequence intact. A champion swap then becomes a way to test the same reasoning with different tools.
+
+## Name the Jobs Before Choosing the Buttons
+
+**Trades & exits** groups a family of learning problems. The middle-lane scenario supplies the setting, participants, and assumptions. **Short Trade and Exit** is the reusable play within that setting. Its three jobs define the result to pursue: create usable contact, deliver brief damage, and retain a way out.
+
+Each job has capability requirements. Contact can be supported by moving yourself, restricting the opponent's movement, or bringing the opponent toward you. Brief damage needs a damage action or a delivered empowered attack. Retreat can use remaining movement, suitable enemy control, or displacement that helps create separation. These are alternative ways to supply a job; a champion does not need every one.
+
+The play encodes a practical teaching principle: consider the exit before committing to the exchange. We chose this pattern to make that dependency inspectable. Its value in a match still depends on the player's purpose. A necessary all-in would call for a different play and different success criteria.
+
+## Follow the Mapping Into the Play
+
+A **capability** describes something a tool enables. An **ability** is a champion action that may supply it. An **observable effect** describes what changes when the mechanic works. The scenario's job determines why that change matters here.
+
+In the shipped model, Ahri's Fox-Fire has a movement-rate effect. That effect can support walking into contact when the approach and destination permit it. The same ability also has damage evidence. Assigning it to the opening means examining its movement contribution; assigning it to brief damage means examining its damage contribution.
+
+This is the mapping the workflow tests: champion action, basic capability, observable effect, then its fit to this job under stated conditions. Recipient, direction, delivery, and availability matter. A movement effect on the wrong recipient cannot establish Ahri's own escape. Choosing an action establishes an assignment; the outcome controls separately describe what you assume happens.
+
+## Spend a Tool and Check What Remains
+
+For Maya's first attempt, assign Fox-Fire to contact, Orb of Deception to brief damage, and Spirit Rush to retreat. The model can inspect the opening's movement, the damage action, and the remaining repositioning mechanism. She still needs to test their conditions and the opponent's response.
+
+Now assign Spirit Rush to the opening instead. The exercise reserves that cast there. The retreat chooser shows what remains, which invites a concrete decision: use an eligible remaining tool, revise the opening, or leave the exit unresolved.
+
+**One reserved use per cast is an exercise rule.** Additional charges, resets, and cooldown recovery need their own evidence. This makes allocation visible without claiming to reproduce a champion's entire resource system.
+
+An earlier effect can sometimes help twice without another cast. Try Lux as the practicing champion: Light Binding may establish an opening and still restrict that same opponent during the exit. The carried-control option requires reviewed ongoing control, an assumed successful opening, and an explicit assumption that the effect persists through the exit. Ending the effect removes that route.
+
+## Give the Opponent a Specific Answer
+
+Return to Ahri against Lux. If Ahri's selected opening relies on walking with increased movement speed, Lux's Light Binding supplies a relevant question: could its movement restriction take effect before or during that walk?
+
+Choose the response window, availability, delivery, and whether its interaction conditions apply. The result explains which selected mechanism is pressured. When Ahri uses a dash instead, the walking restriction does not establish that the dash is stopped. Other recorded pressure, including damage, remains available for inspection.
+
+This turns “Lux counters me” into a smaller question Maya can actually test: which action is threatened, at which moment, and under which condition?
+
+## Change an Assumption and Inspect the Whole Play
+
+Assume the opening succeeds, then try a failed opening. The damage job now loses a required starting condition, and the complete exchange cannot be established. Restore it and test an unavailable retreat action. Successful contact and damage alone leave the exit unfinished.
+
+Read the final result against the play's stated goal. **Assumed** means the modeled chain holds under the selected assumptions. **Unknown** identifies evidence or conditions still needing verification. A failed requirement tells you where to reconsider the plan. Exact timing, damage, health cost, and whether the trade is favorable need additional game-state evidence.
+
+## Practice the Decision You Want to Improve
+
+1. Which capability must supply the next job, and which available action can provide its effect here?
+2. After assigning that action, what remains for the exit and which specific enemy response could interfere?
+3. When one assumption changes, which job loses support and what would you change before attempting the play again?

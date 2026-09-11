@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generator": "Eleventy",
+  "base": "/",
+  "siteUrl": null,
+  "appUrl": "http://localhost:4174/",
+  "counts": {
+    "philosophy": 14,
+    "articles": 10,
+    "learning": 0
+  },
+  "pages": [
+    {
+      "path": "/philosophy/why-we-built-hermod/",
+      "title": "Why we built hermod.gg",
+      "route": "/philosophy/why-we-built-hermod"
+    },
+    {
+      "path": "/philosophy/what-we-mean-by-the-meta/",
+      "title": "What We Mean by “The Meta”",
+      "route": "/philosophy/what-we-mean-by-the-meta"
+    },
+    {
+      "path": "/philosophy/from-community-knowledge-to-a-revisable-model/",
+      "title": "From Community Knowledge to a Revisable Model",
+      "route": "/philosophy/from-community-knowledge-to-a-revisable-model"
+    },
+    {
+      "path": "/philosophy/strategy-is-designed-and-discovered/",
+      "title": "Strategy Is Designed and Discovered",
+      "route": "/philosophy/strategy-is-designed-and-discovered"
+    },
+    {
+      "path": "/philosophy/four-questions-about-every-strategy/",
+      "title": "Four Questions About Every Strategy",
+      "route": "/philosophy/four-questions-about-every-strategy"
+    },
+    {
+      "path": "/philosophy/a-possibility-is-not-yet-a-plan/",
+      "title": "A Possibility Is Not Yet a Plan",
+      "route": "/philosophy/a-possibility-is-not-yet-a-plan"
+    },
+    {
+      "path": "/philosophy/direction-without-rigidity/",
+      "title": "Direction Without Rigidity",
+      "route": "/philosophy/direction-without-rigidity"
+    },
+    {
+      "path": "/philosophy/draft-economics/",
+      "title": "Draft Economics",
+      "route": "/philosophy/draft-economics"
+    },
+    {
+      "path": "/philosophy/strategy-depends-on-what-you-can-coordinate/",
+      "title": "Strategy Depends on What You Can Coordinate",
+      "route": "/philosophy/strategy-depends-on-what-you-can-coordinate"
+    },
+    {
+      "path": "/philosophy/every-decision-lives-at-more-than-one-scale/",
+      "title": "Every Decision Lives at More Than One Scale",
+      "route": "/philosophy/every-decision-lives-at-more-than-one-scale"
+    },
+    {
+      "path": "/philosophy/work-backward-from-what-matters/",
+      "title": "Work Backward From What Matters",
+      "route": "/philosophy/work-backward-from-what-matters"
+    },
+    {
+      "path": "/philosophy/context-before-prescription/",
+      "title": "Context Before Prescription",
+      "route": "/philosophy/context-before-prescription"
+    },
+    {
+      "path": "/philosophy/opportunity-is-a-relationship/",
+      "title": "Opportunity Is a Relationship",
+      "route": "/philosophy/opportunity-is-a-relationship"
+    },
+    {
+      "path": "/philosophy/strategy-is-more-than-its-best-line/",
+      "title": "A Strategy Is More Than Its Best Line",
+      "route": "/philosophy/strategy-is-more-than-its-best-line"
+    },
+    {
+      "path": "/articles/five-good-champions-can-still-make-a-bad-team/",
+      "title": "Five Good Champions Can Still Make a Bad Team",
+      "route": "/articles/five-good-champions-can-still-make-a-bad-team"
+    },
+    {
+      "path": "/articles/the-real-cost-of-first-picking-jinx/",
+      "title": "The Real Cost of First-Picking Jinx",
+      "route": "/articles/the-real-cost-of-first-picking-jinx"
+    },
+    {
+      "path": "/articles/dont-counter-the-champion-counter-the-pathway/",
+      "title": "Counter the Pathway That Makes Their Draft Work",
+      "route": "/articles/dont-counter-the-champion-counter-the-pathway"
+    },
+    {
+      "path": "/articles/the-best-pick-can-be-the-one-that-does-less/",
+      "title": "The Best Pick Can Be the One That Does Less",
+      "route": "/articles/the-best-pick-can-be-the-one-that-does-less"
+    },
+    {
+      "path": "/articles/when-should-you-stop-preserving-options-and-commit/",
+      "title": "When Should You Stop Preserving Options and Commit?",
+      "route": "/articles/when-should-you-stop-preserving-options-and-commit"
+    },
+    {
+      "path": "/articles/your-draft-has-a-bottleneck-even-if-every-role-is-filled/",
+      "title": "Find the Bottleneck in Your Draft",
+      "route": "/articles/your-draft-has-a-bottleneck-even-if-every-role-is-filled"
+    },
+    {
+      "path": "/articles/you-dont-have-three-engage-champions-you-have-one-engage-pathway/",
+      "title": "When Three Engage Champions Share One Pathway",
+      "route": "/articles/you-dont-have-three-engage-champions-you-have-one-engage-pathway"
+    },
+    {
+      "path": "/articles/redundancy-isnt-having-two-champions-who-do-the-same-thing/",
+      "title": "Build Backups That Survive Disruption",
+      "route": "/articles/redundancy-isnt-having-two-champions-who-do-the-same-thing"
+    },
+    {
+      "path": "/articles/a-champion-can-cover-three-needs-and-still-be-your-biggest-risk/",
+      "title": "Balance the Value and Risk of Multi-Function Picks",
+      "route": "/articles/a-champion-can-cover-three-needs-and-still-be-your-biggest-risk"
+    },
+    {
+      "path": "/articles/plan-the-job-before-the-ability/",
+      "title": "Plan the Job Before the Ability",
+      "route": "/articles/plan-the-job-before-the-ability"
+    },
+    {
+      "path": "/",
+      "title": "Change the pick. Understand the consequences."
+    },
+    {
+      "path": "/philosophy/",
+      "title": "Philosophy"
+    },
+    {
+      "path": "/articles/",
+      "title": "Articles"
+    }
+  ],
+  "assets": []
+}

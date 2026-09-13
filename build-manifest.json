@@ -7,7 +7,7 @@
   "appUrl": "/app/",
   "counts": {
     "philosophy": 14,
-    "articles": 11,
+    "articles": 2,
     "learning": 0
   },
   "pages": [
@@ -87,54 +87,9 @@
       "route": "/articles/five-good-champions-can-still-make-a-bad-team"
     },
     {
-      "path": "/articles/the-real-cost-of-first-picking-jinx/",
-      "title": "The Real Cost of First-Picking Jinx",
-      "route": "/articles/the-real-cost-of-first-picking-jinx"
-    },
-    {
-      "path": "/articles/dont-counter-the-champion-counter-the-pathway/",
-      "title": "Counter the Pathway That Makes Their Draft Work",
-      "route": "/articles/dont-counter-the-champion-counter-the-pathway"
-    },
-    {
-      "path": "/articles/the-best-pick-can-be-the-one-that-does-less/",
-      "title": "The Best Pick Can Be the One That Does Less",
-      "route": "/articles/the-best-pick-can-be-the-one-that-does-less"
-    },
-    {
-      "path": "/articles/when-should-you-stop-preserving-options-and-commit/",
-      "title": "When Should You Stop Preserving Options and Commit?",
-      "route": "/articles/when-should-you-stop-preserving-options-and-commit"
-    },
-    {
-      "path": "/articles/your-draft-has-a-bottleneck-even-if-every-role-is-filled/",
-      "title": "Find the Bottleneck in Your Draft",
-      "route": "/articles/your-draft-has-a-bottleneck-even-if-every-role-is-filled"
-    },
-    {
-      "path": "/articles/you-dont-have-three-engage-champions-you-have-one-engage-pathway/",
-      "title": "Three Initiators. How Many Plans Does Your Team Actually Have?",
-      "route": "/articles/you-dont-have-three-engage-champions-you-have-one-engage-pathway"
-    },
-    {
-      "path": "/articles/three-initiators-which-one-can-anchor-the-fight/",
-      "title": "Three Initiators. Which One Can Anchor the Fight?",
-      "route": "/articles/three-initiators-which-one-can-anchor-the-fight"
-    },
-    {
-      "path": "/articles/redundancy-isnt-having-two-champions-who-do-the-same-thing/",
-      "title": "Build Backups That Survive Disruption",
-      "route": "/articles/redundancy-isnt-having-two-champions-who-do-the-same-thing"
-    },
-    {
-      "path": "/articles/a-champion-can-cover-three-needs-and-still-be-your-biggest-risk/",
-      "title": "Balance the Value and Risk of Multi-Function Picks",
-      "route": "/articles/a-champion-can-cover-three-needs-and-still-be-your-biggest-risk"
-    },
-    {
-      "path": "/articles/plan-the-job-before-the-ability/",
-      "title": "Plan the Job Before the Ability",
-      "route": "/articles/plan-the-job-before-the-ability"
+      "path": "/articles/test-one-change-before-rebuilding-the-team/",
+      "title": "Test One Change Before Rebuilding the Team",
+      "route": "/articles/test-one-change-before-rebuilding-the-team"
     },
     {
       "path": "/",

@@ -1,0 +1,211 @@
+{
+  "capturedAt": "2026-09-13T20:22:52.779Z",
+  "source": "Local Composition Decision Lab browser rendering",
+  "viewport": {
+    "width": 1500,
+    "height": 1100,
+    "deviceScaleFactor": 2
+  },
+  "specification": {
+    "version": 1,
+    "teams": {
+      "blue": {
+        "objectiveId": "conversion",
+        "pathwayId": "draft_pathway_protect_and_convert",
+        "roster": [
+          {
+            "roleId": "top",
+            "championId": "champion_Gnar"
+          },
+          {
+            "roleId": "jungle",
+            "championId": "champion_Graves"
+          },
+          {
+            "roleId": "middle",
+            "championId": "champion_Viktor"
+          },
+          {
+            "roleId": "bottom",
+            "championId": "champion_Jinx"
+          },
+          {
+            "roleId": "support",
+            "championId": "champion_Lulu"
+          }
+        ]
+      },
+      "red": {
+        "objectiveId": "conversion",
+        "pathwayId": "draft_pathway_breach_and_remove",
+        "roster": [
+          {
+            "roleId": "top",
+            "championId": "champion_Renekton"
+          },
+          {
+            "roleId": "jungle",
+            "championId": "champion_LeeSin"
+          },
+          {
+            "roleId": "middle",
+            "championId": "champion_Ahri"
+          },
+          {
+            "roleId": "bottom",
+            "championId": "champion_Kaisa"
+          },
+          {
+            "roleId": "support",
+            "championId": "champion_Nautilus"
+          }
+        ]
+      }
+    },
+    "viewpoint": {
+      "side": "blue",
+      "championId": "champion_Graves"
+    },
+    "comparison": {
+      "side": "blue",
+      "roleId": "jungle",
+      "championId": "champion_Ivern"
+    }
+  },
+  "modelSha256": "96701df868f4a3fef75af77dc094cfd1c7b22a08b5f9cce560f4c45d1cb6aed5",
+  "captures": [
+    {
+      "id": "composition-select-graves",
+      "imageFile": "select-graves.png",
+      "selector": ".scenario-roster-team--blue",
+      "route": "/composition-decision-lab/workflow?composition=eyJ2ZXJzaW9uIjoxLCJ0ZWFtcyI6eyJibHVlIjp7Im9iamVjdGl2ZUlkIjoiY29udmVyc2lvbiIsInBhdGh3YXlJZCI6ImRyYWZ0X3BhdGh3YXlfcHJvdGVjdF9hbmRfY29udmVydCIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0duYXIifSx7InJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSx7InJvbGVJZCI6Im1pZGRsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9WaWt0b3IifSx7InJvbGVJZCI6ImJvdHRvbSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9KaW54In0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0x1bHUifV19LCJyZWQiOnsib2JqZWN0aXZlSWQiOiJjb252ZXJzaW9uIiwicGF0aHdheUlkIjoiZHJhZnRfcGF0aHdheV9icmVhY2hfYW5kX3JlbW92ZSIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX1JlbmVrdG9uIn0seyJyb2xlSWQiOiJqdW5nbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fTGVlU2luIn0seyJyb2xlSWQiOiJtaWRkbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fQWhyaSJ9LHsicm9sZUlkIjoiYm90dG9tIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0thaXNhIn0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX05hdXRpbHVzIn1dfX0sInZpZXdwb2ludCI6eyJzaWRlIjoiYmx1ZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSwiY29tcGFyaXNvbiI6eyJzaWRlIjoiYmx1ZSIsInJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9JdmVybiJ9fQ",
+      "width": 920,
+      "height": 664,
+      "sha256": "128a2fd6b34da7c19123965d57aba4720cc094d59d33c70dd2567cb32d8da4fa",
+      "visibleText": "BLUE TEAM\nChoose all five allied champions\nTOP\nGnar\nANALYZE\nFAMILIARITY\nNew\nExposed\nComfortable\nVery familiar\nExpert\n×\nJUNGLE\nGraves\nVIEWING PERSPECTIVE\nCURRENT PERSPECTIVE\nCHANGE CHAMPION\nFAMILIARITY\nNew\nExposed\nComfortable\nVery familiar\nExpert\n×\nMIDDLE\nViktor\nANALYZE\nFAMILIARITY\nNew\nExposed\nComfortable\nVery familiar\nExpert\n×\nBOTTOM\nJinx\nANALYZE\nFAMILIARITY\nNew\nExposed\nComfortable\nVery familiar\nExpert\n×\nSUPPORT\nLulu\nANALYZE\nFAMILIARITY\nNew\nExposed\nComfortable\nVery familiar\nExpert\n×",
+      "unobscured": true,
+      "images": [
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "id": "composition-plan-context",
+      "imageFile": "plan-context.png",
+      "selector": "#composition-decision-controls",
+      "route": "/composition-decision-lab/workflow?composition=eyJ2ZXJzaW9uIjoxLCJ0ZWFtcyI6eyJibHVlIjp7Im9iamVjdGl2ZUlkIjoiY29udmVyc2lvbiIsInBhdGh3YXlJZCI6ImRyYWZ0X3BhdGh3YXlfcHJvdGVjdF9hbmRfY29udmVydCIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0duYXIifSx7InJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSx7InJvbGVJZCI6Im1pZGRsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9WaWt0b3IifSx7InJvbGVJZCI6ImJvdHRvbSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9KaW54In0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0x1bHUifV19LCJyZWQiOnsib2JqZWN0aXZlSWQiOiJjb252ZXJzaW9uIiwicGF0aHdheUlkIjoiZHJhZnRfcGF0aHdheV9icmVhY2hfYW5kX3JlbW92ZSIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX1JlbmVrdG9uIn0seyJyb2xlSWQiOiJqdW5nbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fTGVlU2luIn0seyJyb2xlSWQiOiJtaWRkbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fQWhyaSJ9LHsicm9sZUlkIjoiYm90dG9tIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0thaXNhIn0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX05hdXRpbHVzIn1dfX0sInZpZXdwb2ludCI6eyJzaWRlIjoiYmx1ZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSwiY29tcGFyaXNvbiI6eyJzaWRlIjoiYmx1ZSIsInJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9JdmVybiJ9fQ",
+      "width": 2372,
+      "height": 1190,
+      "sha256": "b2c207966ec03ffcb22f0cc1bc19884295910a1e0a441d733749864e75de9233",
+      "visibleText": "Assessment context\n\nChoose the plans to inspect. Every report below uses these same team hypotheses.\n\nCOMPACT CONTROLS\nKEEP CONTROLS VISIBLE\n1\nWhat could Blue team be trying to achieve?\nInspect the objective, route, and recorded support.\n2\nWhat could Red team be trying to achieve?\nInspect the objective, route, and recorded support.\nBlue team: choose a result and a route\n\nSelected hypothesis. The assessment checks recorded contributions; shared team intention remains open.\n\nBLUE TEAM OBJECTIVE\nConversion\n↗\nOriginal team support\n5 champions · 20 distinct abilities\nJobs with support across 9 associated routes\n44/44\nGraves's recorded contribution\n19 jobs · 3 distinct abilities\nInspect options and choose\nBLUE TEAM PATHWAY INTERPRETATION\nProtect and Convert\n↗\nOriginal team support\n5 champions · 16 distinct abilities\nJobs with support\n6/6\nGraves's recorded contribution\n2 jobs · 2 distinct abilities\nInspect options and choose\n\nCounts describe this original team. The alternate champion changes only the comparison reports.",
+      "unobscured": true,
+      "images": []
+    },
+    {
+      "id": "composition-lulu-dependency",
+      "imageFile": "lulu-dependency.png",
+      "selector": "#composition-decision-concentration .composition-decision__subquestion:first-child",
+      "route": "/composition-decision-lab/workflow?composition=eyJ2ZXJzaW9uIjoxLCJ0ZWFtcyI6eyJibHVlIjp7Im9iamVjdGl2ZUlkIjoiY29udmVyc2lvbiIsInBhdGh3YXlJZCI6ImRyYWZ0X3BhdGh3YXlfcHJvdGVjdF9hbmRfY29udmVydCIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0duYXIifSx7InJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSx7InJvbGVJZCI6Im1pZGRsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9WaWt0b3IifSx7InJvbGVJZCI6ImJvdHRvbSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9KaW54In0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0x1bHUifV19LCJyZWQiOnsib2JqZWN0aXZlSWQiOiJjb252ZXJzaW9uIiwicGF0aHdheUlkIjoiZHJhZnRfcGF0aHdheV9icmVhY2hfYW5kX3JlbW92ZSIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX1JlbmVrdG9uIn0seyJyb2xlSWQiOiJqdW5nbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fTGVlU2luIn0seyJyb2xlSWQiOiJtaWRkbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fQWhyaSJ9LHsicm9sZUlkIjoiYm90dG9tIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0thaXNhIn0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX05hdXRpbHVzIn1dfX0sInZpZXdwb2ludCI6eyJzaWRlIjoiYmx1ZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSwiY29tcGFyaXNvbiI6eyJzaWRlIjoiYmx1ZSIsInJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9JdmVybiJ9fQ",
+      "width": 2256,
+      "height": 1058,
+      "sha256": "c4886ee16df4d4422cfe49678d3867f3e72da27be04cc29a7793d5ce48c4b964",
+      "visibleText": "WHICH JOBS HAVE JUST ONE RECORDED CHAMPION?\n1 one-provider job\n\nThe named champion is the only entered teammate with qualifying evidence for that job. Jobs without any provider are listed in the coverage panel.\n\nPreserve priority asset\nWHAT IS AT STAKE IF SUPPORT IS LOST?\nREQUIRED IN THIS ROUTE\n\nThe priority asset may become unable to act before its sustained contribution produces an advantage.\n\nInterpreted pathway purpose\nWhy this explanation? →\nLulu\ncan help \npreserve priority asset\nusing\nHelp, Pix!\nand\nWild Growth\n.\nConditions apply\n→\nInspect evidence →",
+      "unobscured": true,
+      "images": [
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/spell/LuluE.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/spell/LuluR.png",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "id": "composition-ivern-shortlist",
+      "imageFile": "ivern-shortlist.png",
+      "selector": "#composition-comparison",
+      "route": "/composition-decision-lab/workflow?composition=eyJ2ZXJzaW9uIjoxLCJ0ZWFtcyI6eyJibHVlIjp7Im9iamVjdGl2ZUlkIjoiY29udmVyc2lvbiIsInBhdGh3YXlJZCI6ImRyYWZ0X3BhdGh3YXlfcHJvdGVjdF9hbmRfY29udmVydCIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0duYXIifSx7InJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSx7InJvbGVJZCI6Im1pZGRsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9WaWt0b3IifSx7InJvbGVJZCI6ImJvdHRvbSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9KaW54In0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0x1bHUifV19LCJyZWQiOnsib2JqZWN0aXZlSWQiOiJjb252ZXJzaW9uIiwicGF0aHdheUlkIjoiZHJhZnRfcGF0aHdheV9icmVhY2hfYW5kX3JlbW92ZSIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX1JlbmVrdG9uIn0seyJyb2xlSWQiOiJqdW5nbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fTGVlU2luIn0seyJyb2xlSWQiOiJtaWRkbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fQWhyaSJ9LHsicm9sZUlkIjoiYm90dG9tIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0thaXNhIn0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX05hdXRpbHVzIn1dfX0sInZpZXdwb2ludCI6eyJzaWRlIjoiYmx1ZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSwiY29tcGFyaXNvbiI6eyJzaWRlIjoiYmx1ZSIsInJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9JdmVybiJ9fQ",
+      "width": 414,
+      "height": 664,
+      "sha256": "6812c27829fcf92cdc71748ed8ad50409c9a2602b50874df0a86027315f4387c",
+      "visibleText": "COMPARE THE SELECTED CHAMPION\nIMPROVEMENT TO INVESTIGATE\nDiagnose automatically\n↗\nInspect options and choose\nIvern\nNidalee\nKindred",
+      "unobscured": true,
+      "images": [
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ivern.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nidalee.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kindred.png",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "id": "composition-added-protection",
+      "imageFile": "added-protection.png",
+      "selector": "#composition-decision-comparison .composition-decision__subquestion:has(#composition-decision-comparison-answer-gains) .composition-decision__answer-item:has(> .composition-decision__item-label a[href$=\"capability-ally-protection\"])",
+      "route": "/composition-decision-lab/workflow?composition=eyJ2ZXJzaW9uIjoxLCJ0ZWFtcyI6eyJibHVlIjp7Im9iamVjdGl2ZUlkIjoiY29udmVyc2lvbiIsInBhdGh3YXlJZCI6ImRyYWZ0X3BhdGh3YXlfcHJvdGVjdF9hbmRfY29udmVydCIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0duYXIifSx7InJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSx7InJvbGVJZCI6Im1pZGRsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9WaWt0b3IifSx7InJvbGVJZCI6ImJvdHRvbSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9KaW54In0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0x1bHUifV19LCJyZWQiOnsib2JqZWN0aXZlSWQiOiJjb252ZXJzaW9uIiwicGF0aHdheUlkIjoiZHJhZnRfcGF0aHdheV9icmVhY2hfYW5kX3JlbW92ZSIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX1JlbmVrdG9uIn0seyJyb2xlSWQiOiJqdW5nbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fTGVlU2luIn0seyJyb2xlSWQiOiJtaWRkbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fQWhyaSJ9LHsicm9sZUlkIjoiYm90dG9tIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0thaXNhIn0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX05hdXRpbHVzIn1dfX0sInZpZXdwb2ludCI6eyJzaWRlIjoiYmx1ZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSwiY29tcGFyaXNvbiI6eyJzaWRlIjoiYmx1ZSIsInJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9JdmVybiJ9fQ",
+      "width": 1052,
+      "height": 714,
+      "sha256": "5c57d6f07c526311406971d3e2730fa67d0b99962f1069721880b9de8e966671",
+      "visibleText": "Preserve priority asset\nWHAT DOES THIS MAKE POSSIBLE?\nREQUIRED IN THIS ROUTE\n\nAn opportunity for the protected asset to continue contributing through the contested window.\n\nCan support\nMaintain damage uptime\nInterpreted pathway purpose\nWhy this explanation? →\nIvern\nADDED WITH ALTERNATE\ncan help \npreserve priority asset\nusing\nTriggerseed\n.\nConditions apply\n→",
+      "unobscured": true,
+      "images": [
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ivern.png",
+          "loaded": true
+        },
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/spell/IvernE.png",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "id": "composition-triggerseed-evidence",
+      "imageFile": "triggerseed-evidence.png",
+      "selector": "[id=\"composition:evidence:trace:champion_Ivern:contribution-0381f44d628c2475\"]",
+      "route": "/composition-decision-lab/workflow/reports/comparison/evidence?composition=eyJ2ZXJzaW9uIjoxLCJ0ZWFtcyI6eyJibHVlIjp7Im9iamVjdGl2ZUlkIjoiY29udmVyc2lvbiIsInBhdGh3YXlJZCI6ImRyYWZ0X3BhdGh3YXlfcHJvdGVjdF9hbmRfY29udmVydCIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0duYXIifSx7InJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSx7InJvbGVJZCI6Im1pZGRsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9WaWt0b3IifSx7InJvbGVJZCI6ImJvdHRvbSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9KaW54In0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0x1bHUifV19LCJyZWQiOnsib2JqZWN0aXZlSWQiOiJjb252ZXJzaW9uIiwicGF0aHdheUlkIjoiZHJhZnRfcGF0aHdheV9icmVhY2hfYW5kX3JlbW92ZSIsInJvc3RlciI6W3sicm9sZUlkIjoidG9wIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX1JlbmVrdG9uIn0seyJyb2xlSWQiOiJqdW5nbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fTGVlU2luIn0seyJyb2xlSWQiOiJtaWRkbGUiLCJjaGFtcGlvbklkIjoiY2hhbXBpb25fQWhyaSJ9LHsicm9sZUlkIjoiYm90dG9tIiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX0thaXNhIn0seyJyb2xlSWQiOiJzdXBwb3J0IiwiY2hhbXBpb25JZCI6ImNoYW1waW9uX05hdXRpbHVzIn1dfX0sInZpZXdwb2ludCI6eyJzaWRlIjoiYmx1ZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9HcmF2ZXMifSwiY29tcGFyaXNvbiI6eyJzaWRlIjoiYmx1ZSIsInJvbGVJZCI6Imp1bmdsZSIsImNoYW1waW9uSWQiOiJjaGFtcGlvbl9JdmVybiJ9fQ#composition:evidence:trace:champion_Ivern:contribution-0381f44d628c2475",
+      "width": 2256,
+      "height": 732,
+      "sha256": "862a8187424cca40369ced932884c05db15913bf56af6d5c9150213a13583774",
+      "visibleText": "Triggerseed\n\nReviewed mechanic and exact mapping support a conditional contribution. Availability, delivery and strategic conditions still need to hold.\n\nTriggerseed\nShielding\nExtends Survival Window\nAlly Protection\n\nEvidence quality: conditional · Recipient: ally\n\nEffect Resolution State: connected\nHostile Pressure Window State: present\nMechanic trigger: Cast E on an allied champion.\nProtected Actor Is An Ally Or Team Resource: true\nTarget Validity State: valid\nThe action must be available and reach its required recipient.\nData Dragon provenance and champion data-file structure ↗\nData Dragon provenance and champion data-file structure ↗\nExact evidence record",
+      "unobscured": true,
+      "images": [
+        {
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/spell/IvernE.png",
+          "loaded": true
+        }
+      ]
+    }
+  ]
+}

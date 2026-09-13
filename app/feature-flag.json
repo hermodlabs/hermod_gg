@@ -1,8 +1,8 @@
 {
   "version": 1,
   "flags": {
-    "scenarioLabs": true,
-    "assessmentWorkbenches": true,
+    "scenarioLabs": false,
+    "assessmentWorkbenches": false,
     "betaAccess": true
   },
   "betaAccess": {

@@ -3,10 +3,10 @@
   "generator": "Eleventy",
   "base": "/",
   "siteUrl": null,
-  "appUrl": "http://localhost:4174/",
+  "appUrl": "/app/",
   "counts": {
     "philosophy": 14,
-    "articles": 10,
+    "articles": 11,
     "learning": 0
   },
   "pages": [
@@ -112,8 +112,13 @@
     },
     {
       "path": "/articles/you-dont-have-three-engage-champions-you-have-one-engage-pathway/",
-      "title": "When Three Engage Champions Share One Pathway",
+      "title": "Three Initiators. How Many Plans Does Your Team Actually Have?",
       "route": "/articles/you-dont-have-three-engage-champions-you-have-one-engage-pathway"
+    },
+    {
+      "path": "/articles/three-initiators-which-one-can-anchor-the-fight/",
+      "title": "Three Initiators. Which One Can Anchor the Fight?",
+      "route": "/articles/three-initiators-which-one-can-anchor-the-fight"
     },
     {
       "path": "/articles/redundancy-isnt-having-two-champions-who-do-the-same-thing/",

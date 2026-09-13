@@ -3,6 +3,7 @@
   "generator": "Eleventy",
   "base": "/",
   "siteUrl": null,
+  "appMode": "site-relative",
   "appUrl": "/app/",
   "counts": {
     "philosophy": 14,

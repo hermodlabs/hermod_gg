@@ -1,0 +1,2003 @@
+{
+  "capturedAt": "2026-09-18T18:54:39.868Z",
+  "source": "Local Battleplan Studio browser rendering through normal editing controls",
+  "sourceFile": "draft-workflow-ui/src/data/battleplans/dragon-contest.battleplan",
+  "sourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+  "viewport": {
+    "width": 1500,
+    "height": 1100,
+    "deviceScaleFactor": 2,
+    "mobile": false
+  },
+  "reducedMotion": true,
+  "captures": [
+    {
+      "id": "battleplan-studio",
+      "imageFile": "studio-overview.png",
+      "selector": ".battleplan__workspace",
+      "variant": "baseline",
+      "phase": "Pressure",
+      "sourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+      "lastValidSourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+      "route": "/battleplans/dragon-contest",
+      "width": 2372,
+      "height": 2618,
+      "sha256": "b95422b37cd4b917543d5f7180f0485aa9de34145da77fb60c8b0dd28c2337fb",
+      "visibleText": "01 / AUTHOR\nBattleplan source\nbattleplan/0.1\n\nOne phrase per line. Start by editing a location’s coordinates, a job’s target, or an assumption. Use straight quotes and end each phrase with a period.\n\nFind a position\nFind a job\nFind assumptions\nLive preview\n167 lines · 10 authored jobs\nSaved in this browser\nRestore example…\nPhrase guide and editing tips\n02 / INSPECT\nProtected Dragon attempt\nIntended positions\n\nSecure Dragon while preserving a usable formation\n\nForm\n≤ 20s\nPressure\n≤ 8s\nConvert\n≤ 15s\nWithdraw\n≤ 10s\n\nPhase selection previews the authored plan. It does not record a completed action. Times are authored decision windows.\n\nBLUE JUNGLE ↙\n↗ RED JUNGLE\nRIVER\nDragon\nGnar\nGraves\nViktor\nJinx\nLulu\nRed pressure\nRed flank\n1✓\n2✓\n3✓\n4✓\n5✓\nShow location anchors\nClick the map to read a coordinate\n○ Blue / × Red\n··· Conditional assignment\n⇢ Intended movement\n✓ Assumed support / ? Unresolved / ! Unsupported\nAT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nSupported under assumptions\n\nAwait completion. Remain in Pressure while completion is unresolved.\n\nOutcome checks and support are separate. No execution has been observed.\nConditions and completion checks (6)\n\nThis is an authored schematic, with the same Dragon terrain used in the articles. Lines show intentions. Positions do not prove reach, traversability, cooldown recovery, or a successful fight. A resource budget models concurrent duties, not spell recharge.",
+      "unobscured": true,
+      "images": [
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        }
+      ],
+      "clip": {
+        "x": 272,
+        "y": 283.359375,
+        "width": 1186,
+        "height": 1309.296875,
+        "scale": 1
+      },
+      "state": {
+        "phase": "Pressure",
+        "compileStatus": "Live preview\n167 lines · 10 authored jobs",
+        "support": "true",
+        "assessmentText": "AT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nSupported under assumptions\n\nAwait completion. Remain in Pressure while completion is unresolved.\n\nOutcome checks and support are separate. No execution has been observed.",
+        "assumptionsStale": false,
+        "notice": "",
+        "geometryId": "dragon-article-reference-v1",
+        "actors": [
+          {
+            "id": "Gnar",
+            "authoredPosition": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "displayPosition": {
+              "x": 51.42900085449219,
+              "y": 38.57099914550781
+            },
+            "description": "Gnar · Blue. Intended position: Front (51.429, 38.571)."
+          },
+          {
+            "id": "Graves",
+            "authoredPosition": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "displayPosition": {
+              "x": 55.7140007019043,
+              "y": 55.7140007019043
+            },
+            "description": "Graves · Blue. Intended position: Jungle pocket (55.714, 55.714)."
+          },
+          {
+            "id": "Viktor",
+            "authoredPosition": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "displayPosition": {
+              "x": 37.143001556396484,
+              "y": 35.7140007019043
+            },
+            "description": "Viktor · Blue. Intended position: Entrance (37.143, 35.714)."
+          },
+          {
+            "id": "Jinx",
+            "authoredPosition": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "displayPosition": {
+              "x": 57.143001556396484,
+              "y": 68.57099914550781
+            },
+            "description": "Jinx · Blue. Intended position: Carry pocket (57.143, 68.571)."
+          },
+          {
+            "id": "Lulu",
+            "authoredPosition": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "displayPosition": {
+              "x": 71.42900085449219,
+              "y": 64.28600311279297
+            },
+            "description": "Lulu · Blue. Intended position: Support pocket (71.429, 64.286)."
+          },
+          {
+            "id": "Red pressure",
+            "authoredPosition": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "displayPosition": {
+              "x": 62.856998443603516,
+              "y": 25.714000701904297
+            },
+            "description": "Red pressure · Red. Intended position: Red approach (62.857, 25.714)."
+          },
+          {
+            "id": "Red flank",
+            "authoredPosition": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "displayPosition": {
+              "x": 77.14299774169922,
+              "y": 78.57099914550781
+            },
+            "description": "Red flank · Red. Intended position: Side approach (77.143, 78.571)."
+          }
+        ],
+        "relationships": [
+          {
+            "id": "Press front",
+            "number": 1,
+            "status": "true",
+            "description": "Press front. Gnar is assigned Front control toward Red pressure during Pressure using Gnar front threat. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Gnar",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press entrance",
+            "number": 2,
+            "status": "true",
+            "description": "Press entrance. Viktor is assigned Entrance control toward Entrance during Pressure using Viktor entrance control. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": true,
+            "from": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "to": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "actor": "Viktor",
+            "target": "Entrance"
+          },
+          {
+            "id": "Press jungle",
+            "number": 3,
+            "status": "true",
+            "description": "Press jungle. Graves is assigned Target pressure toward Red pressure during Pressure using Graves pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Graves",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press carry",
+            "number": 4,
+            "status": "true",
+            "description": "Press carry. Jinx is assigned Target pressure toward Red pressure during Pressure using Jinx pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Jinx",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press protection",
+            "number": 5,
+            "status": "true",
+            "description": "Press protection. Lulu is assigned Ally protection toward Jinx during Pressure using Lulu protection sequence. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "to": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "actor": "Lulu",
+            "target": "Jinx"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "Dragon",
+            "position": {
+              "x": 34.286,
+              "y": 62.857
+            }
+          }
+        ],
+        "selectedJob": "Press front",
+        "activeJobCard": null,
+        "completion": "unknown",
+        "next": null
+      }
+    },
+    {
+      "id": "battleplan-job",
+      "imageFile": "protection-assignment.png",
+      "selector": "[data-battleplan-job-card=\"Press protection\"]",
+      "variant": "baseline",
+      "phase": "Pressure",
+      "sourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+      "lastValidSourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+      "route": "/battleplans/dragon-contest",
+      "width": 740,
+      "height": 1016,
+      "sha256": "172d31a94278d9f3b3defdf48d900625bd043245df4ac650ca4542c6f67f4427",
+      "visibleText": "5\nPRESS PROTECTION\nLulu\n\nAlly protection → \ntoward\nJinx\n\nSupported under assumptions\n\nDURING\nPressure\nFROM\nSupport pocket\nUSING\nLulu protection sequence\nREQUIRED CHECKS\nProtection window\nAssumed true\n\nCan Lulu deliver useful protection to Jinx through the required window?\n\nRESERVED RESOURCES\nReserves 1 of Lulu attention during this phase.\nFind this job in the source",
+      "unobscured": true,
+      "images": [
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        }
+      ],
+      "clip": {
+        "x": 679.65625,
+        "y": 2268.609375,
+        "width": 370.671875,
+        "height": 508.953125,
+        "scale": 1
+      },
+      "state": {
+        "phase": "Pressure",
+        "compileStatus": "Live preview\n167 lines · 10 authored jobs",
+        "support": "true",
+        "assessmentText": "AT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nSupported under assumptions\n\nAwait completion. Remain in Pressure while completion is unresolved.\n\nOutcome checks and support are separate. No execution has been observed.",
+        "assumptionsStale": false,
+        "notice": "",
+        "geometryId": "dragon-article-reference-v1",
+        "actors": [
+          {
+            "id": "Gnar",
+            "authoredPosition": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "displayPosition": {
+              "x": 51.42900085449219,
+              "y": 38.57099914550781
+            },
+            "description": "Gnar · Blue. Intended position: Front (51.429, 38.571)."
+          },
+          {
+            "id": "Graves",
+            "authoredPosition": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "displayPosition": {
+              "x": 55.7140007019043,
+              "y": 55.7140007019043
+            },
+            "description": "Graves · Blue. Intended position: Jungle pocket (55.714, 55.714)."
+          },
+          {
+            "id": "Viktor",
+            "authoredPosition": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "displayPosition": {
+              "x": 37.143001556396484,
+              "y": 35.7140007019043
+            },
+            "description": "Viktor · Blue. Intended position: Entrance (37.143, 35.714)."
+          },
+          {
+            "id": "Jinx",
+            "authoredPosition": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "displayPosition": {
+              "x": 57.143001556396484,
+              "y": 68.57099914550781
+            },
+            "description": "Jinx · Blue. Intended position: Carry pocket (57.143, 68.571)."
+          },
+          {
+            "id": "Lulu",
+            "authoredPosition": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "displayPosition": {
+              "x": 71.42900085449219,
+              "y": 64.28600311279297
+            },
+            "description": "Lulu · Blue. Intended position: Support pocket (71.429, 64.286)."
+          },
+          {
+            "id": "Red pressure",
+            "authoredPosition": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "displayPosition": {
+              "x": 62.856998443603516,
+              "y": 25.714000701904297
+            },
+            "description": "Red pressure · Red. Intended position: Red approach (62.857, 25.714)."
+          },
+          {
+            "id": "Red flank",
+            "authoredPosition": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "displayPosition": {
+              "x": 77.14299774169922,
+              "y": 78.57099914550781
+            },
+            "description": "Red flank · Red. Intended position: Side approach (77.143, 78.571)."
+          }
+        ],
+        "relationships": [
+          {
+            "id": "Press front",
+            "number": 1,
+            "status": "true",
+            "description": "Press front. Gnar is assigned Front control toward Red pressure during Pressure using Gnar front threat. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Gnar",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press entrance",
+            "number": 2,
+            "status": "true",
+            "description": "Press entrance. Viktor is assigned Entrance control toward Entrance during Pressure using Viktor entrance control. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": true,
+            "from": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "to": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "actor": "Viktor",
+            "target": "Entrance"
+          },
+          {
+            "id": "Press jungle",
+            "number": 3,
+            "status": "true",
+            "description": "Press jungle. Graves is assigned Target pressure toward Red pressure during Pressure using Graves pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Graves",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press carry",
+            "number": 4,
+            "status": "true",
+            "description": "Press carry. Jinx is assigned Target pressure toward Red pressure during Pressure using Jinx pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Jinx",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press protection",
+            "number": 5,
+            "status": "true",
+            "description": "Press protection. Lulu is assigned Ally protection toward Jinx during Pressure using Lulu protection sequence. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "to": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "actor": "Lulu",
+            "target": "Jinx"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "Dragon",
+            "position": {
+              "x": 34.286,
+              "y": 62.857
+            }
+          }
+        ],
+        "selectedJob": "Press protection",
+        "activeJobCard": "Press protection",
+        "completion": "unknown",
+        "next": null
+      }
+    },
+    {
+      "id": "battleplan-position",
+      "imageFile": "position-edit.png",
+      "selector": ".battleplan-map",
+      "variant": "position",
+      "phase": "Pressure",
+      "sourceHash": "7168ffbe3330d921ee65657555b5b85eefb057e760fc5bf761c47e75d4b1cae4",
+      "lastValidSourceHash": "7168ffbe3330d921ee65657555b5b85eefb057e760fc5bf761c47e75d4b1cae4",
+      "route": "/battleplans/dragon-contest",
+      "width": 1374,
+      "height": 1374,
+      "sha256": "0cc7a9ef73d0b8a6dbca681cd7696fb2c57ea81557610ef26f482f9569d81203",
+      "visibleText": "BLUE JUNGLE ↙ ↗ RED JUNGLE RIVER Dragon Gnar Graves Viktor Jinx Lulu Red pressure Red flank 1? 2? 3? 4? 5?",
+      "unobscured": true,
+      "images": [
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        }
+      ],
+      "clip": {
+        "x": 770,
+        "y": 676.875,
+        "width": 687,
+        "height": 687,
+        "scale": 1
+      },
+      "state": {
+        "phase": "Pressure",
+        "compileStatus": "Live preview\n167 lines · 10 authored jobs",
+        "support": "unknown",
+        "assessmentText": "AT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nNeeds review\n\nRequired support unresolved. Authored continuation: Review (unresolved).\n\nOutcome checks and support are separate. No execution has been observed.",
+        "assumptionsStale": true,
+        "notice": "Review the assumptions for this revision.\n\nThe plan changed or a draft was restored. Retained assumptions are treated as unresolved until you review them.\n\nUse the written assumptions for this revision",
+        "geometryId": "dragon-article-reference-v1",
+        "actors": [
+          {
+            "id": "Gnar",
+            "authoredPosition": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "displayPosition": {
+              "x": 51.42900085449219,
+              "y": 38.57099914550781
+            },
+            "description": "Gnar · Blue. Intended position: Front (51.429, 38.571)."
+          },
+          {
+            "id": "Graves",
+            "authoredPosition": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "displayPosition": {
+              "x": 55.7140007019043,
+              "y": 55.7140007019043
+            },
+            "description": "Graves · Blue. Intended position: Jungle pocket (55.714, 55.714)."
+          },
+          {
+            "id": "Viktor",
+            "authoredPosition": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "displayPosition": {
+              "x": 37.143001556396484,
+              "y": 35.7140007019043
+            },
+            "description": "Viktor · Blue. Intended position: Entrance (37.143, 35.714)."
+          },
+          {
+            "id": "Jinx",
+            "authoredPosition": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "displayPosition": {
+              "x": 57.143001556396484,
+              "y": 68.57099914550781
+            },
+            "description": "Jinx · Blue. Intended position: Carry pocket (57.143, 68.571)."
+          },
+          {
+            "id": "Lulu",
+            "authoredPosition": {
+              "x": 65,
+              "y": 64
+            },
+            "displayPosition": {
+              "x": 65,
+              "y": 64
+            },
+            "description": "Lulu · Blue. Intended position: Support pocket (65, 64)."
+          },
+          {
+            "id": "Red pressure",
+            "authoredPosition": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "displayPosition": {
+              "x": 62.856998443603516,
+              "y": 25.714000701904297
+            },
+            "description": "Red pressure · Red. Intended position: Red approach (62.857, 25.714)."
+          },
+          {
+            "id": "Red flank",
+            "authoredPosition": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "displayPosition": {
+              "x": 77.14299774169922,
+              "y": 78.57099914550781
+            },
+            "description": "Red flank · Red. Intended position: Side approach (77.143, 78.571)."
+          }
+        ],
+        "relationships": [
+          {
+            "id": "Press front",
+            "number": 1,
+            "status": "unknown",
+            "description": "Press front. Gnar is assigned Front control toward Red pressure during Pressure using Gnar front threat. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Gnar",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press entrance",
+            "number": 2,
+            "status": "unknown",
+            "description": "Press entrance. Viktor is assigned Entrance control toward Entrance during Pressure using Viktor entrance control. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": true,
+            "from": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "to": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "actor": "Viktor",
+            "target": "Entrance"
+          },
+          {
+            "id": "Press jungle",
+            "number": 3,
+            "status": "unknown",
+            "description": "Press jungle. Graves is assigned Target pressure toward Red pressure during Pressure using Graves pressure. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Graves",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press carry",
+            "number": 4,
+            "status": "unknown",
+            "description": "Press carry. Jinx is assigned Target pressure toward Red pressure during Pressure using Jinx pressure. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Jinx",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press protection",
+            "number": 5,
+            "status": "unknown",
+            "description": "Press protection. Lulu is assigned Ally protection toward Jinx during Pressure using Lulu protection sequence. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 65,
+              "y": 64
+            },
+            "to": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "actor": "Lulu",
+            "target": "Jinx"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "Dragon",
+            "position": {
+              "x": 34.286,
+              "y": 62.857
+            }
+          }
+        ],
+        "selectedJob": "Press front",
+        "activeJobCard": null,
+        "completion": "unknown",
+        "next": "Review"
+      }
+    },
+    {
+      "id": "battleplan-diagnostic",
+      "imageFile": "phrase-diagnostic.png",
+      "selector": "#battleplan-compile-status",
+      "variant": "invalid",
+      "phase": "Pressure",
+      "sourceHash": "dda009ff865061de65ac6c3c2cee383c6963b7a80a3e7a1d3fa8ae44eea5e028",
+      "lastValidSourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+      "route": "/battleplans/dragon-contest",
+      "width": 950,
+      "height": 218,
+      "sha256": "d0250ffa2547d400dda26524950f462987084eabf3dc38424e003a2d79a3531b",
+      "visibleText": "Preview paused\nLine 21: Unrecognized phrase: Location \"Support pocket\" at (65, 64)\nGo to line 21",
+      "unobscured": true,
+      "images": [
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        }
+      ],
+      "clip": {
+        "x": 273,
+        "y": 1440.5625,
+        "width": 475,
+        "height": 109.234375,
+        "scale": 1
+      },
+      "state": {
+        "phase": "Pressure",
+        "compileStatus": "Preview paused\nLine 21: Unrecognized phrase: Location \"Support pocket\" at (65, 64)\nGo to line 21",
+        "support": "true",
+        "assessmentText": "AT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nSupported under assumptions\n\nAwait completion. Remain in Pressure while completion is unresolved.\n\nOutcome checks and support are separate. No execution has been observed.",
+        "assumptionsStale": false,
+        "notice": "Showing the last valid source. This map does not include your incomplete or invalid edits.",
+        "geometryId": "dragon-article-reference-v1",
+        "actors": [
+          {
+            "id": "Gnar",
+            "authoredPosition": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "displayPosition": {
+              "x": 51.42900085449219,
+              "y": 38.57099914550781
+            },
+            "description": "Gnar · Blue. Intended position: Front (51.429, 38.571)."
+          },
+          {
+            "id": "Graves",
+            "authoredPosition": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "displayPosition": {
+              "x": 55.7140007019043,
+              "y": 55.7140007019043
+            },
+            "description": "Graves · Blue. Intended position: Jungle pocket (55.714, 55.714)."
+          },
+          {
+            "id": "Viktor",
+            "authoredPosition": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "displayPosition": {
+              "x": 37.143001556396484,
+              "y": 35.7140007019043
+            },
+            "description": "Viktor · Blue. Intended position: Entrance (37.143, 35.714)."
+          },
+          {
+            "id": "Jinx",
+            "authoredPosition": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "displayPosition": {
+              "x": 57.143001556396484,
+              "y": 68.57099914550781
+            },
+            "description": "Jinx · Blue. Intended position: Carry pocket (57.143, 68.571)."
+          },
+          {
+            "id": "Lulu",
+            "authoredPosition": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "displayPosition": {
+              "x": 71.42900085449219,
+              "y": 64.28600311279297
+            },
+            "description": "Lulu · Blue. Intended position: Support pocket (71.429, 64.286)."
+          },
+          {
+            "id": "Red pressure",
+            "authoredPosition": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "displayPosition": {
+              "x": 62.856998443603516,
+              "y": 25.714000701904297
+            },
+            "description": "Red pressure · Red. Intended position: Red approach (62.857, 25.714)."
+          },
+          {
+            "id": "Red flank",
+            "authoredPosition": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "displayPosition": {
+              "x": 77.14299774169922,
+              "y": 78.57099914550781
+            },
+            "description": "Red flank · Red. Intended position: Side approach (77.143, 78.571)."
+          }
+        ],
+        "relationships": [
+          {
+            "id": "Press front",
+            "number": 1,
+            "status": "true",
+            "description": "Press front. Gnar is assigned Front control toward Red pressure during Pressure using Gnar front threat. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Gnar",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press entrance",
+            "number": 2,
+            "status": "true",
+            "description": "Press entrance. Viktor is assigned Entrance control toward Entrance during Pressure using Viktor entrance control. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": true,
+            "from": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "to": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "actor": "Viktor",
+            "target": "Entrance"
+          },
+          {
+            "id": "Press jungle",
+            "number": 3,
+            "status": "true",
+            "description": "Press jungle. Graves is assigned Target pressure toward Red pressure during Pressure using Graves pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Graves",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press carry",
+            "number": 4,
+            "status": "true",
+            "description": "Press carry. Jinx is assigned Target pressure toward Red pressure during Pressure using Jinx pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Jinx",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press protection",
+            "number": 5,
+            "status": "true",
+            "description": "Press protection. Lulu is assigned Ally protection toward Jinx during Pressure using Lulu protection sequence. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "to": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "actor": "Lulu",
+            "target": "Jinx"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "Dragon",
+            "position": {
+              "x": 34.286,
+              "y": 62.857
+            }
+          }
+        ],
+        "selectedJob": "Press front",
+        "activeJobCard": null,
+        "completion": "unknown",
+        "next": null
+      }
+    },
+    {
+      "id": "battleplan-target",
+      "imageFile": "shared-target-edit.png",
+      "selector": ".battleplan-map",
+      "variant": "target",
+      "phase": "Pressure",
+      "sourceHash": "151d68e94776af28a376a0d708fa98aceff5c4c3a1e9f9953515321555d60928",
+      "lastValidSourceHash": "151d68e94776af28a376a0d708fa98aceff5c4c3a1e9f9953515321555d60928",
+      "route": "/battleplans/dragon-contest",
+      "width": 1374,
+      "height": 1374,
+      "sha256": "211459c5f54efd5b73aaf8ab4c44caae169595fb4878fd8ba8f33139aa07e53a",
+      "visibleText": "BLUE JUNGLE ↙ ↗ RED JUNGLE RIVER Dragon Gnar Graves Viktor Jinx Lulu Red pressure Red flank 1? 2? 3? 4? 5?",
+      "unobscured": true,
+      "images": [
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        }
+      ],
+      "clip": {
+        "x": 770,
+        "y": 676.875,
+        "width": 687,
+        "height": 687,
+        "scale": 1
+      },
+      "state": {
+        "phase": "Pressure",
+        "compileStatus": "Live preview\n167 lines · 10 authored jobs",
+        "support": "unknown",
+        "assessmentText": "AT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nNeeds review\n\nRequired support unresolved. Authored continuation: Review (unresolved).\n\nOutcome checks and support are separate. No execution has been observed.",
+        "assumptionsStale": true,
+        "notice": "Review the assumptions for this revision.\n\nThe plan changed or a draft was restored. Retained assumptions are treated as unresolved until you review them.\n\nUse the written assumptions for this revision",
+        "geometryId": "dragon-article-reference-v1",
+        "actors": [
+          {
+            "id": "Gnar",
+            "authoredPosition": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "displayPosition": {
+              "x": 51.42900085449219,
+              "y": 38.57099914550781
+            },
+            "description": "Gnar · Blue. Intended position: Front (51.429, 38.571)."
+          },
+          {
+            "id": "Graves",
+            "authoredPosition": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "displayPosition": {
+              "x": 55.7140007019043,
+              "y": 55.7140007019043
+            },
+            "description": "Graves · Blue. Intended position: Jungle pocket (55.714, 55.714)."
+          },
+          {
+            "id": "Viktor",
+            "authoredPosition": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "displayPosition": {
+              "x": 37.143001556396484,
+              "y": 35.7140007019043
+            },
+            "description": "Viktor · Blue. Intended position: Entrance (37.143, 35.714)."
+          },
+          {
+            "id": "Jinx",
+            "authoredPosition": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "displayPosition": {
+              "x": 57.143001556396484,
+              "y": 68.57099914550781
+            },
+            "description": "Jinx · Blue. Intended position: Carry pocket (57.143, 68.571)."
+          },
+          {
+            "id": "Lulu",
+            "authoredPosition": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "displayPosition": {
+              "x": 71.42900085449219,
+              "y": 64.28600311279297
+            },
+            "description": "Lulu · Blue. Intended position: Support pocket (71.429, 64.286)."
+          },
+          {
+            "id": "Red pressure",
+            "authoredPosition": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "displayPosition": {
+              "x": 62.856998443603516,
+              "y": 25.714000701904297
+            },
+            "description": "Red pressure · Red. Intended position: Red approach (62.857, 25.714)."
+          },
+          {
+            "id": "Red flank",
+            "authoredPosition": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "displayPosition": {
+              "x": 77.14299774169922,
+              "y": 78.57099914550781
+            },
+            "description": "Red flank · Red. Intended position: Side approach (77.143, 78.571)."
+          }
+        ],
+        "relationships": [
+          {
+            "id": "Press front",
+            "number": 1,
+            "status": "unknown",
+            "description": "Press front. Gnar is assigned Front control toward Red pressure during Pressure using Gnar front threat. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Gnar",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press entrance",
+            "number": 2,
+            "status": "unknown",
+            "description": "Press entrance. Viktor is assigned Entrance control toward Entrance during Pressure using Viktor entrance control. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": true,
+            "from": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "to": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "actor": "Viktor",
+            "target": "Entrance"
+          },
+          {
+            "id": "Press jungle",
+            "number": 3,
+            "status": "unknown",
+            "description": "Press jungle. Graves is assigned Target pressure toward Red flank during Pressure using Graves pressure. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "to": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "actor": "Graves",
+            "target": "Red flank"
+          },
+          {
+            "id": "Press carry",
+            "number": 4,
+            "status": "unknown",
+            "description": "Press carry. Jinx is assigned Target pressure toward Red flank during Pressure using Jinx pressure. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "to": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "actor": "Jinx",
+            "target": "Red flank"
+          },
+          {
+            "id": "Press protection",
+            "number": 5,
+            "status": "unknown",
+            "description": "Press protection. Lulu is assigned Ally protection toward Jinx during Pressure using Lulu protection sequence. Unresolved in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "to": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "actor": "Lulu",
+            "target": "Jinx"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "Dragon",
+            "position": {
+              "x": 34.286,
+              "y": 62.857
+            }
+          }
+        ],
+        "selectedJob": "Press front",
+        "activeJobCard": null,
+        "completion": "unknown",
+        "next": "Review"
+      }
+    },
+    {
+      "id": "battleplan-failed",
+      "imageFile": "failed-protection.png",
+      "selector": ".battleplan__assessment",
+      "variant": "failed",
+      "phase": "Pressure",
+      "sourceHash": "10d24f1d07a80ab7d2ea9a191603d5708ba8d9261b9d25203b684cdd50b4a5c7",
+      "lastValidSourceHash": "10d24f1d07a80ab7d2ea9a191603d5708ba8d9261b9d25203b684cdd50b4a5c7",
+      "route": "/battleplans/dragon-contest",
+      "width": 1374,
+      "height": 298,
+      "sha256": "2befe67002c4713a5fffd80b4896437e3877d0e6d3f83cd3871b0730a8a3445a",
+      "visibleText": "AT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nRequired support failed\n\nRequired support failed. Authored continuation: Withdraw.\n\nOutcome checks and support are separate. No execution has been observed.",
+      "unobscured": true,
+      "images": [
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        }
+      ],
+      "clip": {
+        "x": 770,
+        "y": 1310.484375,
+        "width": 687,
+        "height": 149.171875,
+        "scale": 1
+      },
+      "state": {
+        "phase": "Pressure",
+        "compileStatus": "Live preview\n167 lines · 10 authored jobs",
+        "support": "false",
+        "assessmentText": "AT PRESSURE ENTRY · HYPOTHETICAL ASSESSMENT\nRequired support failed\n\nRequired support failed. Authored continuation: Withdraw.\n\nOutcome checks and support are separate. No execution has been observed.",
+        "assumptionsStale": false,
+        "notice": "",
+        "geometryId": "dragon-article-reference-v1",
+        "actors": [
+          {
+            "id": "Gnar",
+            "authoredPosition": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "displayPosition": {
+              "x": 51.42900085449219,
+              "y": 38.57099914550781
+            },
+            "description": "Gnar · Blue. Intended position: Front (51.429, 38.571)."
+          },
+          {
+            "id": "Graves",
+            "authoredPosition": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "displayPosition": {
+              "x": 55.7140007019043,
+              "y": 55.7140007019043
+            },
+            "description": "Graves · Blue. Intended position: Jungle pocket (55.714, 55.714)."
+          },
+          {
+            "id": "Viktor",
+            "authoredPosition": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "displayPosition": {
+              "x": 37.143001556396484,
+              "y": 35.7140007019043
+            },
+            "description": "Viktor · Blue. Intended position: Entrance (37.143, 35.714)."
+          },
+          {
+            "id": "Jinx",
+            "authoredPosition": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "displayPosition": {
+              "x": 57.143001556396484,
+              "y": 68.57099914550781
+            },
+            "description": "Jinx · Blue. Intended position: Carry pocket (57.143, 68.571)."
+          },
+          {
+            "id": "Lulu",
+            "authoredPosition": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "displayPosition": {
+              "x": 71.42900085449219,
+              "y": 64.28600311279297
+            },
+            "description": "Lulu · Blue. Intended position: Support pocket (71.429, 64.286)."
+          },
+          {
+            "id": "Red pressure",
+            "authoredPosition": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "displayPosition": {
+              "x": 62.856998443603516,
+              "y": 25.714000701904297
+            },
+            "description": "Red pressure · Red. Intended position: Red approach (62.857, 25.714)."
+          },
+          {
+            "id": "Red flank",
+            "authoredPosition": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "displayPosition": {
+              "x": 77.14299774169922,
+              "y": 78.57099914550781
+            },
+            "description": "Red flank · Red. Intended position: Side approach (77.143, 78.571)."
+          }
+        ],
+        "relationships": [
+          {
+            "id": "Press front",
+            "number": 1,
+            "status": "true",
+            "description": "Press front. Gnar is assigned Front control toward Red pressure during Pressure using Gnar front threat. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Gnar",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press entrance",
+            "number": 2,
+            "status": "true",
+            "description": "Press entrance. Viktor is assigned Entrance control toward Entrance during Pressure using Viktor entrance control. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": true,
+            "from": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "to": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "actor": "Viktor",
+            "target": "Entrance"
+          },
+          {
+            "id": "Press jungle",
+            "number": 3,
+            "status": "true",
+            "description": "Press jungle. Graves is assigned Target pressure toward Red pressure during Pressure using Graves pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 55.714,
+              "y": 55.714
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Graves",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press carry",
+            "number": 4,
+            "status": "true",
+            "description": "Press carry. Jinx is assigned Target pressure toward Red pressure during Pressure using Jinx pressure. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Jinx",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Press protection",
+            "number": 5,
+            "status": "false",
+            "description": "Press protection. Lulu is assigned Ally protection toward Jinx during Pressure using Lulu protection sequence. Unsupported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "to": {
+              "x": 57.143,
+              "y": 68.571
+            },
+            "actor": "Lulu",
+            "target": "Jinx"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "Dragon",
+            "position": {
+              "x": 34.286,
+              "y": 62.857
+            }
+          }
+        ],
+        "selectedJob": "Press front",
+        "activeJobCard": null,
+        "completion": "unknown",
+        "next": "Withdraw"
+      }
+    },
+    {
+      "id": "battleplan-convert",
+      "imageFile": "conversion-preview.png",
+      "selector": ".battleplan-map",
+      "variant": "baseline",
+      "phase": "Convert",
+      "sourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+      "lastValidSourceHash": "9c2427b2df089853dd8a893471aa9d3c2ae84408e61837206936767cdcf8781b",
+      "route": "/battleplans/dragon-contest",
+      "width": 1374,
+      "height": 1374,
+      "sha256": "294d994b2ef003c2b682ab2d34c250139aaff1bd628550e48bc5e65b34f75523",
+      "visibleText": "BLUE JUNGLE ↙ ↗ RED JUNGLE RIVER Dragon Gnar Graves Viktor Jinx Lulu Red pressure Red flank 1✓ 2✓ 3✓ 4✓ 5✓",
+      "unobscured": true,
+      "images": [
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "html",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        },
+        {
+          "kind": "svg",
+          "src": "https://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+          "rendered": true,
+          "loaded": true,
+          "decodedWidth": 128
+        }
+      ],
+      "clip": {
+        "x": 770,
+        "y": 517.6875,
+        "width": 687,
+        "height": 687,
+        "scale": 1
+      },
+      "state": {
+        "phase": "Convert",
+        "compileStatus": "Live preview\n167 lines · 10 authored jobs",
+        "support": "true",
+        "assessmentText": "AT CONVERT ENTRY · HYPOTHETICAL ASSESSMENT\nSupported under assumptions\n\nAwait completion. Remain in Convert while completion is unresolved.\n\nOutcome checks and support are separate. No execution has been observed.",
+        "assumptionsStale": false,
+        "notice": "",
+        "geometryId": "dragon-article-reference-v1",
+        "actors": [
+          {
+            "id": "Gnar",
+            "authoredPosition": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "displayPosition": {
+              "x": 51.42900085449219,
+              "y": 38.57099914550781
+            },
+            "description": "Gnar · Blue. Intended position: Front (51.429, 38.571)."
+          },
+          {
+            "id": "Graves",
+            "authoredPosition": {
+              "x": 41.429,
+              "y": 68.571
+            },
+            "displayPosition": {
+              "x": 41.42900085449219,
+              "y": 68.57099914550781
+            },
+            "description": "Graves · Blue. Intended position: Dragon side (41.429, 68.571)."
+          },
+          {
+            "id": "Viktor",
+            "authoredPosition": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "displayPosition": {
+              "x": 37.143001556396484,
+              "y": 35.7140007019043
+            },
+            "description": "Viktor · Blue. Intended position: Entrance (37.143, 35.714)."
+          },
+          {
+            "id": "Jinx",
+            "authoredPosition": {
+              "x": 40,
+              "y": 57.143
+            },
+            "displayPosition": {
+              "x": 40,
+              "y": 57.143001556396484
+            },
+            "description": "Jinx · Blue. Intended position: Dragon edge (40, 57.143)."
+          },
+          {
+            "id": "Lulu",
+            "authoredPosition": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "displayPosition": {
+              "x": 71.42900085449219,
+              "y": 64.28600311279297
+            },
+            "description": "Lulu · Blue. Intended position: Support pocket (71.429, 64.286)."
+          },
+          {
+            "id": "Red pressure",
+            "authoredPosition": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "displayPosition": {
+              "x": 62.856998443603516,
+              "y": 25.714000701904297
+            },
+            "description": "Red pressure · Red. Intended position: Red approach (62.857, 25.714)."
+          },
+          {
+            "id": "Red flank",
+            "authoredPosition": {
+              "x": 77.143,
+              "y": 78.571
+            },
+            "displayPosition": {
+              "x": 77.14299774169922,
+              "y": 78.57099914550781
+            },
+            "description": "Red flank · Red. Intended position: Side approach (77.143, 78.571)."
+          }
+        ],
+        "relationships": [
+          {
+            "id": "Finish front",
+            "number": 1,
+            "status": "true",
+            "description": "Finish front. Gnar is assigned Front control toward Red pressure during Convert using Gnar front threat. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 51.429,
+              "y": 38.571
+            },
+            "to": {
+              "x": 62.857,
+              "y": 25.714
+            },
+            "actor": "Gnar",
+            "target": "Red pressure"
+          },
+          {
+            "id": "Finish entrance",
+            "number": 2,
+            "status": "true",
+            "description": "Finish entrance. Viktor is assigned Entrance control toward Entrance during Convert using Viktor entrance control. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": true,
+            "from": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "to": {
+              "x": 37.143,
+              "y": 35.714
+            },
+            "actor": "Viktor",
+            "target": "Entrance"
+          },
+          {
+            "id": "Finish jungle",
+            "number": 3,
+            "status": "true",
+            "description": "Finish jungle. Graves is assigned Objective damage toward Dragon during Convert using Graves objective attacks. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 41.429,
+              "y": 68.571
+            },
+            "to": {
+              "x": 34.286,
+              "y": 62.857
+            },
+            "actor": "Graves",
+            "target": "Dragon"
+          },
+          {
+            "id": "Finish carry",
+            "number": 4,
+            "status": "true",
+            "description": "Finish carry. Jinx is assigned Objective damage toward Dragon during Convert using Jinx objective attacks. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 40,
+              "y": 57.143
+            },
+            "to": {
+              "x": 34.286,
+              "y": 62.857
+            },
+            "actor": "Jinx",
+            "target": "Dragon"
+          },
+          {
+            "id": "Finish protection",
+            "number": 5,
+            "status": "true",
+            "description": "Finish protection. Lulu is assigned Ally protection toward Jinx during Convert using Lulu protection sequence. Supported in the supplied case. This is an intended assignment, not observed execution.",
+            "local": false,
+            "from": {
+              "x": 71.429,
+              "y": 64.286
+            },
+            "to": {
+              "x": 40,
+              "y": 57.143
+            },
+            "actor": "Lulu",
+            "target": "Jinx"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "Dragon",
+            "position": {
+              "x": 34.286,
+              "y": 62.857
+            }
+          }
+        ],
+        "selectedJob": "Finish front",
+        "activeJobCard": null,
+        "completion": "unknown",
+        "next": null
+      }
+    }
+  ]
+}

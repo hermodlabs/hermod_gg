@@ -7,7 +7,7 @@
   "appUrl": "/app/",
   "counts": {
     "philosophy": 14,
-    "articles": 2,
+    "articles": 3,
     "learning": 0
   },
   "pages": [
@@ -90,6 +90,11 @@
       "path": "/articles/test-one-change-before-rebuilding-the-team/",
       "title": "Test One Change Before Rebuilding the Team",
       "route": "/articles/test-one-change-before-rebuilding-the-team"
+    },
+    {
+      "path": "/articles/write-a-dragon-battleplan-one-phrase-at-a-time/",
+      "title": "Write a Dragon Battleplan, One Phrase at a Time",
+      "route": "/articles/write-a-dragon-battleplan-one-phrase-at-a-time"
     },
     {
       "path": "/",
